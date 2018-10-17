@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.40.44.0'?>
+<nacs:ScreenWindow Topmost="False" Title="OPERATE" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" WindowState="Normal" BorderStyle="ThreeDBorder" ScreenSize="800, 480" StyleName="Default" IsCacheable="True" Width="800" Height="480" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:nacs="clr-namespace:Neo.ApplicationFramework.Controls.Screen;assembly=Controls" xmlns:nai="clr-namespace:Neo.ApplicationFramework.Interfaces;assembly=Interfaces" xmlns:nacxs="clr-namespace:Neo.ApplicationFramework.Common.Xaml.Serializer;assembly=Common" xmlns:nac="clr-namespace:Neo.ApplicationFramework.Controls;assembly=Controls" xmlns:nacb="clr-namespace:Neo.ApplicationFramework.Common.Bevel;assembly=Common" xmlns:nac1="clr-namespace:Neo.ApplicationFramework.Common;assembly=Common" xmlns:nata="clr-namespace:Neo.ApplicationFramework.Tools.Action;assembly=Tools" xmlns:nacd="clr-namespace:Neo.ApplicationFramework.Common.Data;assembly=CommonCF" xmlns:nacc="clr-namespace:Neo.ApplicationFramework.Common.Converters;assembly=Common" xmlns:nacd1="clr-namespace:Neo.ApplicationFramework.Common.Dynamics;assembly=Common" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:nacd2="clr-namespace:Neo.ApplicationFramework.Common.Dynamics;assembly=CommonCF" xmlns:nacgl="clr-namespace:Neo.ApplicationFramework.Common.Graphics.Logic;assembly=CommonCF" xmlns:nacb1="clr-namespace:Neo.ApplicationFramework.Common.Behaviors;assembly=Common" x:Class="Neo.ApplicationFramework.Generated.OPERATE">
+  <nai:ScriptProperties.ScriptEvents>
+    <nai:ScriptEventList>
+      <nacxs:EventHandlerInfo EventName="Opened" MethodName="OPERATE_Opened" />
+    </nai:ScriptEventList>
+  </nai:ScriptProperties.ScriptEvents>
+  <nacs:ElementCanvas Name="m_EditorCanvas" Width="800" Height="480" FocusVisualStyle="{x:Null}" AllowDrop="True" ClipToBounds="True" Focusable="True" TextOptions.TextFormattingMode="Display" TextOptions.TextRenderingMode="ClearType" Panel.ZIndex="104">
+    <nac:Label Text="VẬN HÀNH" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="38" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="9.5,0,9.5,1" Name="m_Text" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="2" Canvas.Left="118" Canvas.Top="6">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Raised" Width="2" />
+      </nac:Label.BevelEffectInfo>
+      <nai:ScriptProperties.ScriptEvents>
+        <nai:ScriptEventList>
+          <nacxs:EventHandlerInfo EventName="MouseDown" MethodName="Text_MouseDown" />
+        </nai:ScriptEventList>
+      </nai:ScriptProperties.ScriptEvents>
+      <nai:ActionProperties.Actions>
+        <nai:ActionList />
+      </nai:ActionProperties.Actions>
+    </nac:Label>
+    <nac:Button Text="BACK" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="{x:Null}" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="20" FontStyle="Normal" FontWeight="Normal" Name="m_Button1" Width="100" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" Visibility="Visible" Panel.ZIndex="3" Canvas.Left="8" Canvas.Top="7" Style="{nac1:StyleMarkupExtension DefaultCF}">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Show Previous Screen">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="ActionBackScreen" ObjectName="GetService&lt;Neo.ApplicationFramework.Interfaces.IScreenManager&gt;()" EventName="Click" ReferenceType="Service" ObjectParentName="" ObjectPathProvider="" ObjectPath="" ExplicitAuditTrail="True" />
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+    </nac:Button>
+    <nac:Label AutoSize="False" MultiLine="True" Text="FEED" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text2" Width="70.6" Height="54" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="4" Canvas.Left="512" Canvas.Top="327">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label Text="Hz" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text3" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="5" Canvas.Left="108" Canvas.Top="119" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:Label Text="C/M" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text7" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="6" Canvas.Left="108" Canvas.Top="212" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text9" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="7" Canvas.Left="419" Canvas.Top="212" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:Label AutoSize="False" Text="QUALIFIED:                                              REJECT:                                              " TextDecorations="{x:Null}" BorderBrush="#FFF79646" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text11" Width="763" Height="35" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="1" Canvas.Left="19" Canvas.Top="268" />
+    <nac:Label MultiLine="True" Text="SEALING&#xD;&#xA;UP" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text13" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="8" Canvas.Left="172" Canvas.Top="327">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label MultiLine="True" Text="DRAG&#xD;&#xA;DOWN" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text14" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="9" Canvas.Left="26" Canvas.Top="327">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label MultiLine="True" Text="DEFECT&#xD;&#xA;OFF" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text15" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="10" Canvas.Left="659" Canvas.Top="327">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label MultiLine="True" Text="EYE&#xD;&#xA;MARK" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text16" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="11" Canvas.Left="352" Canvas.Top="327">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label MultiLine="True" Text="SEALING&#xD;&#xA;UP" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text17" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="12" Canvas.Left="172" Canvas.Top="327">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label MultiLine="True" Text="EYE&#xD;&#xA;MARK" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text19" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="14" Canvas.Left="352" Canvas.Top="327">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label AutoSize="False" MultiLine="True" WordWrap="False" Text="INCH" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text20" Width="70.6" Height="54" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="15" Canvas.Left="512" Canvas.Top="410">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label AutoSize="False" MultiLine="True" WordWrap="False" Text="RUN" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text22" Width="81" Height="54" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="16" Canvas.Left="26" Canvas.Top="410">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label AutoSize="False" MultiLine="True" WordWrap="False" Text="ALARM" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text23" Width="96" Height="54" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="17" Canvas.Left="659" Canvas.Top="410">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label AutoSize="False" MultiLine="True" WordWrap="False" Text="STOP" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFC0504D" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text25" Width="103" Height="54" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="18" Canvas.Left="172" Canvas.Top="410">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Raised" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:Label AutoSize="False" MultiLine="True" WordWrap="False" Text="AUTO" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text27" Width="75" Height="54" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="19" Canvas.Left="352" Canvas.Top="410">
+      <nac:Label.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:Label.BevelEffectInfo>
+    </nac:Label>
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="20" KeyboardNavigation.TabNavigation="None" Canvas.Left="496" Canvas.Top="214">
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text1" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="21" Canvas.Left="257" Canvas.Top="207" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric1" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="22" KeyboardNavigation.TabNavigation="None" Canvas.Left="325" Canvas.Top="214">
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text8" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="23" Canvas.Left="748" Canvas.Top="212" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric2" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="24" KeyboardNavigation.TabNavigation="None" Canvas.Left="19" Canvas.Top="122">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tanso].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric3" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="25" KeyboardNavigation.TabNavigation="None" Canvas.Left="647" Canvas.Top="216">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.nhiethansolohientai].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text10" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="26" Canvas.Left="588" Canvas.Top="217" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text21" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="27" Canvas.Left="419" Canvas.Top="212" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric4" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="28" KeyboardNavigation.TabNavigation="None" Canvas.Left="496" Canvas.Top="216">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.nhiethansealhientai].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text24" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="29" Canvas.Left="257" Canvas.Top="207" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric5" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="30" KeyboardNavigation.TabNavigation="None" Canvas.Left="325" Canvas.Top="216">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.nhiethanduoihientai].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text26" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="31" Canvas.Left="588" Canvas.Top="212" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric6" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="32" KeyboardNavigation.TabNavigation="None" Canvas.Left="168" Canvas.Top="219">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.nhiethantrenhientai].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric7" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="33" KeyboardNavigation.TabNavigation="None" Canvas.Left="19" Canvas.Top="214">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.nhipcat].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="User" TextDecorations="{x:Null}" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="22" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5.5,0,5.5,1" Name="m_Text28" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="34" Canvas.Left="538" Canvas.Top="5">
+      <nac:Label.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:Label.Resources>
+      <nac:Label.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.SystemTagCurrentUser].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True" />
+      </nac:Label.Value>
+    </nac:Label>
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric8" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="35" KeyboardNavigation.TabNavigation="None" Canvas.Left="496" Canvas.Top="159">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tramhanSeal].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text29" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="36" Canvas.Left="748" Canvas.Top="157" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric9" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="37" KeyboardNavigation.TabNavigation="None" Canvas.Left="647" Canvas.Top="161">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tramhanSolo].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text30" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="38" Canvas.Left="419" Canvas.Top="157" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text31" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="39" Canvas.Left="257" Canvas.Top="152" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric10" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="40" KeyboardNavigation.TabNavigation="None" Canvas.Left="325" Canvas.Top="161">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tramhanduoi].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="C" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="#FFFFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text32" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="41" Canvas.Left="588" Canvas.Top="157" nai:SecurityProperties.SecurityGroupsRequired="Administrators" />
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric11" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="42" KeyboardNavigation.TabNavigation="None" Canvas.Left="168" Canvas.Top="161">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tram_han_tren].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Label Text="Tần số" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Tahoma" FontSize="24" FontStyle="Italic" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text4" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="47" Canvas.Left="4" Canvas.Top="83">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:Label Text="Nhịp cắt" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Tahoma" FontSize="24" FontStyle="Italic" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text5" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="48" Canvas.Left="4" Canvas.Top="170">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric12" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="51" KeyboardNavigation.TabNavigation="None" Canvas.Left="118" Canvas.Top="270">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.TongSovi].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" DisplayFormat="Integer" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontSize="20" FontStyle="Normal" FontWeight="Normal" Padding="2,2,2,2" Name="m_AnalogNumeric13" Width="86" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="52" KeyboardNavigation.TabNavigation="None" Canvas.Left="472" Canvas.Top="270">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.SoViLoi].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+    </nac:AnalogNumericFX>
+    <nac:Label TextDecorations="{x:Null}" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="22" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5.5,0,5.5,1" Name="m_Text6" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="49" Canvas.Left="366" Canvas.Top="6">
+      <nac:Label.Resources>
+        <ResourceDictionary>
+          <nacd1:RawConverter x:Key="TextConverter" DefaultValue="Sản phẩm" />
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:Label.Resources>
+      <nac:Label.Text>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.Tensanpham].Value" Converter="{StaticResource TextConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>Sản phẩm</Binding.FallbackValue>
+        </Binding>
+      </nac:Label.Text>
+      <nac:Label.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.SystemTagLatestLoadedRecipeName].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True" />
+      </nac:Label.Value>
+    </nac:Label>
+    <nac:Button Text="UPPER&#xD;&#xA;HEAT" MultiLine="True" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" Transparent="Visible" MultiPicture="True" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FF4F81BD" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" Name="m_Button" Width="86" Height="71" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" IsEnabled="True" Panel.ZIndex="43" Canvas.Left="168" Canvas.Top="72" Style="{nac1:StyleMarkupExtension Glossy}">
+      <nac:Button.Resources>
+        <ResourceDictionary>
+          <nacd1:BrushDynamicsConverter x:Key="ForegroundConverter">
+            <nacd1:BrushDynamicsConverter.BrushIntervalMapper>
+              <nacd2:BrushCFIntervalMapper>
+                <nacd2:BrushCFIntervalMapper.Intervals>
+                  <nacd2:BrushCFIntervalList>
+                    <nacd2:BrushCFInterval>
+                      <nacd2:BrushCFInterval.Value>
+                        <nacgl:BrushCF StartColor="0, 114, 188" EndColor="" FillDirection="None" />
+                      </nacd2:BrushCFInterval.Value>
+                    </nacd2:BrushCFInterval>
+                    <nacd2:BrushCFInterval Start="1" End="1">
+                      <nacd2:BrushCFInterval.Value>
+                        <nacgl:BrushCF StartColor="255, 194, 14" EndColor="" FillDirection="None" />
+                      </nacd2:BrushCFInterval.Value>
+                    </nacd2:BrushCFInterval>
+                  </nacd2:BrushCFIntervalList>
+                </nacd2:BrushCFIntervalMapper.Intervals>
+                <nacd2:BrushCFIntervalMapper.DefaultValue>
+                  <nacgl:BrushCF StartColor="White" EndColor="" FillDirection="None" />
+                </nacd2:BrushCFIntervalMapper.DefaultValue>
+              </nacd2:BrushCFIntervalMapper>
+            </nacd1:BrushDynamicsConverter.BrushIntervalMapper>
+          </nacd1:BrushDynamicsConverter>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:Button.Resources>
+      <nac:Button.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.Nhiettren].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>
+            <s:Double>0</s:Double>
+          </Binding.FallbackValue>
+        </Binding>
+      </nac:Button.Value>
+      <nac:Button.Foreground>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.Nhiettren].Value" Converter="{StaticResource ForegroundConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>
+            <SolidColorBrush>#FFFFFFFF</SolidColorBrush>
+          </Binding.FallbackValue>
+        </Binding>
+      </nac:Button.Foreground>
+      <nai:ActionProperties.Actions>
+        <nai:ActionList />
+      </nai:ActionProperties.Actions>
+    </nac:Button>
+    <nac:Button Text="LOWER&#xD;&#xA;HEAT" MultiLine="True" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FF4F81BD" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" Name="m_Button2" Width="86" Height="71" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" IsEnabled="True" Panel.ZIndex="44" Canvas.Left="325" Canvas.Top="72" Style="{nac1:StyleMarkupExtension Glossy}">
+      <nac:Button.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:Button.Resources>
+      <nac:Button.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.Nhietduoi].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>
+            <s:Double>0</s:Double>
+          </Binding.FallbackValue>
+        </Binding>
+      </nac:Button.Value>
+    </nac:Button>
+    <nac:Button Text="HEAT&#xD;&#xA;SEAL" MultiLine="True" WordWrap="True" TextDecorations="{x:Null}" TextHorizontalAlignment="Center" RequiresTransparency="True" SymbolTransparent="False" Transparent="Visible" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FF4F81BD" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" Name="m_Button3" Width="86" Height="71" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" IsEnabled="True" Panel.ZIndex="45" Canvas.Left="496" Canvas.Top="72" Style="{nac1:StyleMarkupExtension Glossy}">
+      <nac:Button.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:Button.Resources>
+      <nac:Button.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.NhietSeal].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>
+            <s:Double>0</s:Double>
+          </Binding.FallbackValue>
+        </Binding>
+      </nac:Button.Value>
+    </nac:Button>
+    <nac:Button Text="EMBOSSING&#xD;&#xA;HEAT" MultiLine="True" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FF4F81BD" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="20" FontStyle="Normal" FontWeight="Normal" Name="m_Button4" Width="135" Height="71" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" IsEnabled="True" Panel.ZIndex="46" Canvas.Left="647" Canvas.Top="72" Style="{nac1:StyleMarkupExtension Glossy}">
+      <nac:Button.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:Button.Resources>
+      <nac:Button.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.NhietSoLo].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>
+            <s:Double>0</s:Double>
+          </Binding.FallbackValue>
+        </Binding>
+      </nac:Button.Value>
+    </nac:Button>
+    <nac:Label Text="TRẠNG THÁI HỆ THỐNG !" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text12" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="53" Canvas.Left="369" Canvas.Top="34" nacb1:IntervalMapperBindingsBehavior.RebindInRuntime="True">
+      <nac:Label.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:Label.Resources>
+      <nac:Label.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.TrangThaiHeThong].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True" />
+      </nac:Label.Value>
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+      <nac:Label.TextIntervalMapper>
+        <nacd1:StringIntervalMapper DefaultValue="TRẠNG THÁI HỆ THỐNG !">
+          <nacd1:StringIntervalMapper.Intervals>
+            <nacd1:StringIntervalList>
+              <nacd1:StringInterval Start="1" End="1" Value="Đang ngừng : không có user vận hành" />
+              <nacd1:StringInterval Start="2" End="2" Value="Đang chạy kiểm tra thông số bởi quản lý" />
+              <nacd1:StringInterval Start="3" End="3" Value="Đang chạy sản xuất bời nhân viên vận hành" />
+              <nacd1:StringInterval Start="4" End="4" Value="Đang kiểm tra, Vệ sinh bởi nhân viên vận hành" />
+              <nacd1:StringInterval Start="5" End="5" Value="Đang chạy kiểm tra bảo trì bới nhân viên kỹ thuật" />
+            </nacd1:StringIntervalList>
+          </nacd1:StringIntervalMapper.Intervals>
+        </nacd1:StringIntervalMapper>
+      </nac:Label.TextIntervalMapper>
+    </nac:Label>
+  </nacs:ElementCanvas>
+</nacs:ScreenWindow>

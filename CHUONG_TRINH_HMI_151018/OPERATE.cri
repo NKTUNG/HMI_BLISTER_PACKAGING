@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.40.44.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="OPERATE.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text7" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text9" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text11" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text13" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text14" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text15" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text16" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text17" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text19" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text20" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text22" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text23" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text25" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text27" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.AnalogNumeric3" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text10" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text21" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text24" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text26" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric6" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.AnalogNumeric7" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text28" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text29" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric9" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text30" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text31" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric10" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text32" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.AnalogNumeric11" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.AnalogNumeric12" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.AnalogNumeric13" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text6" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text12" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="OPERATE.AnalogNumeric2" TargetProperty="Value" Source="Tags.tanso" />
+        <Item Target="OPERATE.AnalogNumeric3" TargetProperty="Value" Source="Tags.nhiethansolohientai" />
+        <Item Target="OPERATE.AnalogNumeric4" TargetProperty="Value" Source="Tags.nhiethansealhientai" />
+        <Item Target="OPERATE.AnalogNumeric5" TargetProperty="Value" Source="Tags.nhiethanduoihientai" />
+        <Item Target="OPERATE.AnalogNumeric6" TargetProperty="Value" Source="Tags.nhiethantrenhientai" />
+        <Item Target="OPERATE.AnalogNumeric7" TargetProperty="Value" Source="Tags.nhipcat" />
+        <Item Target="OPERATE.Text28" TargetProperty="Value" Source="Tags.SystemTagCurrentUser" />
+        <Item Target="OPERATE.AnalogNumeric8" TargetProperty="Value" Source="Tags.tramhanSeal" />
+        <Item Target="OPERATE.AnalogNumeric9" TargetProperty="Value" Source="Tags.tramhanSolo" />
+        <Item Target="OPERATE.AnalogNumeric10" TargetProperty="Value" Source="Tags.tramhanduoi" />
+        <Item Target="OPERATE.AnalogNumeric11" TargetProperty="Value" Source="Tags.tram_han_tren" />
+        <Item Target="OPERATE.AnalogNumeric12" TargetProperty="Value" Source="Tags.TongSovi" />
+        <Item Target="OPERATE.AnalogNumeric13" TargetProperty="Value" Source="Tags.SoViLoi" />
+        <Item Target="OPERATE.Text6" TargetProperty="Text" Source="Tags.Tensanpham" />
+        <Item Target="OPERATE.Text6" TargetProperty="Value" Source="Tags.SystemTagLatestLoadedRecipeName" />
+        <Item Target="OPERATE.Button" TargetProperty="Value" Source="Tags.Nhiettren" />
+        <Item Target="OPERATE.Button" TargetProperty="Foreground" Source="Tags.Nhiettren" />
+        <Item Target="OPERATE.Button2" TargetProperty="Value" Source="Tags.Nhietduoi" />
+        <Item Target="OPERATE.Button3" TargetProperty="Value" Source="Tags.NhietSeal" />
+        <Item Target="OPERATE.Button4" TargetProperty="Value" Source="Tags.NhietSoLo" />
+        <Item Target="OPERATE.Text12" TargetProperty="Value" Source="Tags.TrangThaiHeThong" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="OPERATE.Button" Source="791278776_Normal.bmp" />
+        <Item Target="OPERATE.Button" Source="791278776_Pressed.bmp" />
+        <Item Target="OPERATE.Button" Source="791278776_Disabled.bmp" />
+        <Item Target="OPERATE.Button2" Source="791278776_Normal.bmp" />
+        <Item Target="OPERATE.Button2" Source="791278776_Pressed.bmp" />
+        <Item Target="OPERATE.Button2" Source="791278776_Disabled.bmp" />
+        <Item Target="OPERATE.Button3" Source="791278776_Normal.bmp" />
+        <Item Target="OPERATE.Button3" Source="791278776_Pressed.bmp" />
+        <Item Target="OPERATE.Button3" Source="791278776_Disabled.bmp" />
+        <Item Target="OPERATE.Button4" Source="260224270_Normal.bmp" />
+        <Item Target="OPERATE.Button4" Source="260224270_Pressed.bmp" />
+        <Item Target="OPERATE.Button4" Source="260224270_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>OPERATE</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>51</ObjectsCount>
+          <ScreenName>OPERATE</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="OPERATE.Script.cs" Source="Tags.TrangThaiHeThong" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items />
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

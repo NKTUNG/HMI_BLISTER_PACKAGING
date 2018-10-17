@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.40.44.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="START.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.TouchComboBox" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.TouchComboBox1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.TouchComboBox2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.TouchComboBox3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.TouchComboBox4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.Text3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.Text4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="START.Text5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="START.TouchComboBox" TargetProperty="Value" Source="Tags.TenThietbi" />
+        <Item Target="START.TouchComboBox1" TargetProperty="Value" Source="Tags.TenThietbi" />
+        <Item Target="START.TouchComboBox2" TargetProperty="Value" Source="Tags.Mathietbi" />
+        <Item Target="START.TouchComboBox3" TargetProperty="Value" Source="Tags.TenThietbi" />
+        <Item Target="START.TouchComboBox4" TargetProperty="Value" Source="Tags.Modelthietbi" />
+        <Item Target="START.Text5" TargetProperty="Value" Source="Tags.TrangThaiHeThong" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="START.TouchComboBox" Source="START.m_TouchComboBox.bmp" />
+        <Item Target="START.TouchComboBox1" Source="START.m_TouchComboBox1.bmp" />
+        <Item Target="START.TouchComboBox2" Source="START.m_TouchComboBox2.bmp" />
+        <Item Target="START.TouchComboBox3" Source="START.m_TouchComboBox3.bmp" />
+        <Item Target="START.TouchComboBox4" Source="START.m_TouchComboBox4.bmp" />
+        <Item Target="START.Button" Source="1412963031_Normal.bmp" />
+        <Item Target="START.Button" Source="1412963031_Pressed.bmp" />
+        <Item Target="START.Button" Source="1412963031_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="START.Button" TargetProperty="Actions" Source="LOGIN" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>START</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>13</ObjectsCount>
+          <ScreenName>START</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="START.Script.cs" Source="Tags.TrangThaiHeThong" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="START.Picture1" Source="cvi-pharma" Width="284" Height="284" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

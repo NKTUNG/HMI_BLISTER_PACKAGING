@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.40.44.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="SETUP2.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.Text3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.AnalogNumeric" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.Text4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.Text5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.AnalogNumeric1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.AnalogNumeric4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.AnalogNumeric5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.AnalogNumeric6" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.AnalogNumeric7" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.AnalogNumeric8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.AnalogNumeric9" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.Text6" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.AnalogNumeric2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="SETUP2.TextBox" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.Button2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="SETUP2.AnalogNumeric" TargetProperty="Value" Source="Tags.tram_han_tren" />
+        <Item Target="SETUP2.AnalogNumeric1" TargetProperty="Value" Source="Tags.tramhanSeal" />
+        <Item Target="SETUP2.AnalogNumeric4" TargetProperty="Value" Source="Tags.tramhanSeal" />
+        <Item Target="SETUP2.AnalogNumeric5" TargetProperty="Value" Source="Tags.tramhanSolo" />
+        <Item Target="SETUP2.AnalogNumeric6" TargetProperty="Value" Source="Tags.Canhbaotren" />
+        <Item Target="SETUP2.AnalogNumeric7" TargetProperty="Value" Source="Tags.Canhbaoduoi" />
+        <Item Target="SETUP2.AnalogNumeric8" TargetProperty="Value" Source="Tags.CanhbaoSeal" />
+        <Item Target="SETUP2.AnalogNumeric9" TargetProperty="Value" Source="Tags.CanhbaoSolo" />
+        <Item Target="SETUP2.AnalogNumeric2" TargetProperty="Value" Source="Tags.HMI_DoDaiBuocKeo" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items>
+        <Item xsi:type="ActionItem" Target="SETUP2.Button" TargetProperty="Actions" Source="Recipe1" Event="Click" Action="Save Recipe" Param="" />
+        <Item xsi:type="ActionItem" Target="SETUP2.Button1" TargetProperty="Actions" Source="Recipe1" Event="Click" Action="Delete Recipe" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="SETUP2.Button" Source="1453591887_Normal.bmp" />
+        <Item Target="SETUP2.Button" Source="1453591887_Pressed.bmp" />
+        <Item Target="SETUP2.Button" Source="1453591887_Disabled.bmp" />
+        <Item Target="SETUP2.Button1" Source="1453591887_Normal.bmp" />
+        <Item Target="SETUP2.Button1" Source="1453591887_Pressed.bmp" />
+        <Item Target="SETUP2.Button1" Source="1453591887_Disabled.bmp" />
+        <Item Target="SETUP2.Button2" Source="1453591887_Normal.bmp" />
+        <Item Target="SETUP2.Button2" Source="1453591887_Pressed.bmp" />
+        <Item Target="SETUP2.Button2" Source="1453591887_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>SETUP2</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>29</ObjectsCount>
+          <ScreenName>SETUP2</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="SETUP2.Script.cs" Source="Tags.Masanpham" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items />
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

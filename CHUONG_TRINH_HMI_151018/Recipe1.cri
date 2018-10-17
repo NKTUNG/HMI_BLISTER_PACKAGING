@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.40.44.0">
+  <Categories>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Recipe1.RecipeItem1" TargetProperty="Value" Source="Tags.tram_han_tren" />
+        <Item Target="Recipe1.RecipeItem2" TargetProperty="Value" Source="Tags.tramhanduoi" />
+        <Item Target="Recipe1.RecipeItem3" TargetProperty="Value" Source="Tags.tramhanSeal" />
+        <Item Target="Recipe1.RecipeItem4" TargetProperty="Value" Source="Tags.tramhanSolo" />
+        <Item Target="Recipe1.RecipeItem5" TargetProperty="Value" Source="Tags.Canhbaotren" />
+        <Item Target="Recipe1.RecipeItem6" TargetProperty="Value" Source="Tags.Canhbaoduoi" />
+        <Item Target="Recipe1.RecipeItem7" TargetProperty="Value" Source="Tags.CanhbaoSeal" />
+        <Item Target="Recipe1.RecipeItem8" TargetProperty="Value" Source="Tags.CanhbaoSolo" />
+        <Item Target="Recipe1.RecipeItem9" TargetProperty="Value" Source="Tags.Masanpham" />
+        <Item Target="Recipe1.RecipeItem10" TargetProperty="Value" Source="Tags.HMI_DoDaiBuocKeo" />
+      </Items>
+    </Category>
+  </Categories>
+</CrossReferences>

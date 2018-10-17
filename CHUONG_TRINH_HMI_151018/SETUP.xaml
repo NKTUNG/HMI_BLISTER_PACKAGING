@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.40.44.0'?>
+<nacs:ScreenWindow Topmost="False" Title="SETUP" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" WindowState="Normal" BorderStyle="ThreeDBorder" ScreenSize="800, 480" StyleName="Default" IsCacheable="True" Width="800" Height="480" nai:SecurityProperties.SecurityGroupsRequired="None" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:nacs="clr-namespace:Neo.ApplicationFramework.Controls.Screen;assembly=Controls" xmlns:nai="clr-namespace:Neo.ApplicationFramework.Interfaces;assembly=Interfaces" xmlns:nacxs="clr-namespace:Neo.ApplicationFramework.Common.Xaml.Serializer;assembly=Common" xmlns:nacs1="clr-namespace:Neo.ApplicationFramework.Controls.Symbol;assembly=Controls" xmlns:nac="clr-namespace:Neo.ApplicationFramework.Controls;assembly=Controls" xmlns:nacd="clr-namespace:Neo.ApplicationFramework.Common.Data;assembly=CommonCF" xmlns:nacb="clr-namespace:Neo.ApplicationFramework.Common.Bevel;assembly=Common" xmlns:nacc="clr-namespace:Neo.ApplicationFramework.Common.Converters;assembly=Common" xmlns:nata="clr-namespace:Neo.ApplicationFramework.Tools.Action;assembly=Tools" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:nac1="clr-namespace:Neo.ApplicationFramework.Common;assembly=Common" xmlns:nacc1="clr-namespace:Neo.ApplicationFramework.Controls.Controls;assembly=Controls" x:Class="Neo.ApplicationFramework.Generated.SETUP">
+  <nai:ScriptProperties.ScriptEvents>
+    <nai:ScriptEventList>
+      <nacxs:EventHandlerInfo EventName="Opened" MethodName="SETUP_Opened" />
+    </nai:ScriptEventList>
+  </nai:ScriptProperties.ScriptEvents>
+  <nacs:ElementCanvas Name="m_EditorCanvas" Width="800" Height="480" FocusVisualStyle="{x:Null}" AllowDrop="True" ClipToBounds="True" Focusable="True" TextOptions.TextFormattingMode="Display" TextOptions.TextRenderingMode="ClearType" Panel.ZIndex="104">
+    <nacs1:Picture SymbolName="cvi-pharma" Name="m_Picture" Width="60" Height="60" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="5" Canvas.Left="718" Canvas.Top="3" />
+    <nac:Label Text="Tên Sản phẩm:" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text1" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="6" Canvas.Left="194" Canvas.Top="112" />
+    <nac:Label Text="Mã Sản phẩm:" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text2" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="7" Canvas.Left="194" Canvas.Top="155" />
+    <nac:Label Text="Trạm hàn trên" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text5" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="8" Canvas.Left="268" Canvas.Top="292">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:Label Text="Trạm hàn dưới" BorderBrush="#00FFFFFF" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text6" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="9" Canvas.Left="267" Canvas.Top="335">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:Label Text="Trạm hàn số lô" BorderBrush="#00FFFFFF" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text8" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="10" Canvas.Left="269" Canvas.Top="425">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:Label Text="Trạm hàn Seal" BorderBrush="#00FFFFFF" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text13" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="11" Canvas.Left="269" Canvas.Top="382">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:Label Text="Trạm hàn" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="20" FontStyle="Italic" FontWeight="Bold" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text14" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="12" Canvas.Left="292" Canvas.Top="245" />
+    <nac:Label MultiLine="True" Text="Nhiệt độ &#xD;&#xA;cảnh báo" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="20" FontStyle="Italic" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text7" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="14" Canvas.Left="522" Canvas.Top="233" />
+    <nac:AnalogNumericFX AutoStretchFont="False" MinValue="50" MaxValue="100" ValidateValueOnInput="True" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" TextDecorations="{x:Null}" BorderBrush="#FF000000" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="20" FontStyle="Normal" FontWeight="Normal" Padding="2,2,2,2" Name="m_AnalogNumeric" Width="82" Height="33" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="15" KeyboardNavigation.TabNavigation="None" Canvas.Left="435" Canvas.Top="290">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tram_han_tren].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="5" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Set Analog">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="SetAnalog" ObjectName="Tags.tram_han_tren" EventName="GotFocus" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="" ObjectPath="" ExplicitAuditTrail="False">
+                <nata:ActionMethodInfo.ActionParameterInfo>
+                  <nai:ActionParameterInfoList>
+                    <nata:ActionParameterInfo Position="0" ParameterName="newValue" ParameterTypeString="Neo.ApplicationFramework.Interfaces.VariantValue, InterfacesCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" TagName="">
+                      <nata:ActionParameterInfo.Value>
+                        <s:Int32>1</s:Int32>
+                      </nata:ActionParameterInfo.Value>
+                    </nata:ActionParameterInfo>
+                  </nai:ActionParameterInfoList>
+                </nata:ActionMethodInfo.ActionParameterInfo>
+              </nata:ActionMethodInfo>
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" MinValue="50" MaxValue="100" ValidateValueOnInput="True" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF000000" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric1" Width="82" Height="33" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="16" KeyboardNavigation.TabNavigation="None" Canvas.Left="435" Canvas.Top="333">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tramhanduoi].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="5" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" MinValue="50" MaxValue="100" ValidateValueOnInput="True" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF000000" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric2" Width="82" Height="33" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="17" KeyboardNavigation.TabNavigation="None" Canvas.Left="435" Canvas.Top="380">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tramhanSeal].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="5" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" MinValue="50" MaxValue="100" ValidateValueOnInput="True" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF000000" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric3" Width="82" Height="33" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="18" KeyboardNavigation.TabNavigation="None" Canvas.Left="435" Canvas.Top="423">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.tramhanSolo].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="5" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" MinValue="50" MaxValue="100" ValidateValueOnInput="True" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF000000" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric4" Width="82" Height="33" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="19" KeyboardNavigation.TabNavigation="None" Canvas.Left="533" Canvas.Top="290">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.Canhbaotren].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="5" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" MinValue="50" MaxValue="100" ValidateValueOnInput="True" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF000000" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric5" Width="82" Height="33" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="20" KeyboardNavigation.TabNavigation="None" Canvas.Left="533" Canvas.Top="333">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.Canhbaoduoi].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="5" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" MinValue="50" MaxValue="100" ValidateValueOnInput="True" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF000000" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric6" Width="82" Height="33" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="21" KeyboardNavigation.TabNavigation="None" Canvas.Left="533" Canvas.Top="380">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.CanhbaoSeal].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="5" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+    </nac:AnalogNumericFX>
+    <nac:AnalogNumericFX AutoStretchFont="False" MinValue="50" MaxValue="100" ValidateValueOnInput="True" ValidateValueOnDisplay="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FF000000" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="20" Padding="2,2,2,2" Name="m_AnalogNumeric7" Width="82" Height="33" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="22" KeyboardNavigation.TabNavigation="None" Canvas.Left="533" Canvas.Top="423">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.CanhbaoSolo].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="None" Width="5" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+    </nac:AnalogNumericFX>
+    <nac:Button Text="CHỌN &#xD;&#xA;SẢN PHẨM" MultiLine="True" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" MultiPicture="True" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button4" Width="120" Height="56" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="23" Canvas.Left="631" Canvas.Top="231" Style="{nac1:StyleMarkupExtension DefaultCF}">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Load Recipe">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="LoadRecipe" ObjectName="Recipe1" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="" ObjectPath="" ExplicitAuditTrail="False" />
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+    </nac:Button>
+    <nac:Label Text="User" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Tahoma" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text9" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="24" Canvas.Left="602" Canvas.Top="18">
+      <nac:Label.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:Label.Resources>
+      <nac:Label.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.SystemTagCurrentUser].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True" />
+      </nac:Label.Value>
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nacc1:Rectangle Fill="#FFD6E3F4" Stroke="{x:Null}" StrokeThickness="1" Name="m_Rectangle" Width="368" Height="227" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="3" Canvas.Left="255" Canvas.Top="233">
+      <nacc1:Rectangle.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Raised" Width="2" />
+      </nacc1:Rectangle.BevelEffectInfo>
+    </nacc1:Rectangle>
+    <nac:Label MultiLine="True" Text="Nhiệt độ &#xD;&#xA;cài đặt" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="20" FontStyle="Italic" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text4" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="13" Canvas.Left="427" Canvas.Top="233" />
+    <nac:Button Text="XÓA &#xD;&#xA;SẢN PHẨM" MultiLine="True" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" MultiPicture="True" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button2" Width="120" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="25" Canvas.Left="631" Canvas.Top="402" Style="{nac1:StyleMarkupExtension DefaultCF}">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Delete Recipe">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="DeleteRecipe" ObjectName="Recipe1" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="" ObjectPath="" ExplicitAuditTrail="False" />
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+    </nac:Button>
+    <Line X1="138" Y1="280.5" X2="504" Y2="280.5" Stroke="{x:Null}" StrokeThickness="0" Name="m_Line" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="26" />
+    <Line X1="622" Y1="286.5" X2="256" Y2="286.5" Stroke="#FFFFFFFF" Name="m_Line1" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="27" />
+    <Line X1="622" Y1="325.5" X2="256" Y2="325.5" Stroke="#FFFFFFFF" Name="m_Line2" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="28" />
+    <Line X1="623" Y1="374.5" X2="257" Y2="374.5" Stroke="#FFFFFFFF" Name="m_Line3" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="29" />
+    <Line X1="257" Y1="419.5" X2="622" Y2="419.5" Stroke="#FFFFFFFF" StrokeThickness="1" Name="m_Line5" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="30" />
+    <Line X1="422" Y1="233" X2="422" Y2="459" Stroke="#FFFFFFFF" StrokeThickness="1" Name="m_Line4" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="31" />
+    <Line X1="525" Y1="233" X2="525" Y2="459" Stroke="#FFFFFFFF" StrokeThickness="1" Name="m_Line6" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="32" />
+    <nacc1:Rectangle Fill="#FFD6E3F4" Stroke="{x:Null}" StrokeThickness="1" Name="m_Rectangle1" Width="496" Height="124" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="2" Canvas.Left="136" Canvas.Top="82">
+      <nacc1:Rectangle.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Raised" Width="2" />
+      </nacc1:Rectangle.BevelEffectInfo>
+    </nacc1:Rectangle>
+    <nac:TextBox WordWrap="False" Text="San Pham" FontFamily="Arial" UndoLimit="1" Transparent="Visible" TextDecorations="{x:Null}" IsReadOnly="True" BorderBrush="#FF8FA4BE" Foreground="#FF000000" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" Name="m_SanPham" Width="167" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="False" Panel.ZIndex="34" Canvas.Left="404" Canvas.Top="112" />
+    <nac:TextBox WordWrap="False" Text="Ma San Pham" FontFamily="Arial" UndoLimit="1" Transparent="Visible" IsReadOnly="True" BorderBrush="#FF8FA4BE" FontSize="24" HorizontalContentAlignment="Center" Name="m_MaSanPham" Width="167" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="False" Panel.ZIndex="35" Canvas.Left="404" Canvas.Top="155" />
+    <nac:Button Text="LƯU &#xD;&#xA;THAY ĐỔI" MultiLine="True" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" MultiPicture="True" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button5" Width="120" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="36" Canvas.Left="631" Canvas.Top="286" Style="{nac1:StyleMarkupExtension DefaultCF}">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Save Recipe">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="SaveRecipe" ObjectName="Recipe1" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="" ObjectPath="" ExplicitAuditTrail="False" />
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+    </nac:Button>
+    <nac:Button Text="SẢN PHẨM&#xD;&#xA;MỚI" MultiLine="True" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" MultiPicture="True" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button1" Width="120" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="37" Canvas.Left="631" Canvas.Top="344" Style="{nac1:StyleMarkupExtension DefaultCF}">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Show Screen">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="Show" ObjectName="SETUP2" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" ObjectPath="Default" ExplicitAuditTrail="False">
+                <nata:ActionMethodInfo.ActionParameterInfo>
+                  <nai:ActionParameterInfoList>
+                    <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                  </nai:ActionParameterInfoList>
+                </nata:ActionMethodInfo.ActionParameterInfo>
+              </nata:ActionMethodInfo>
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+    </nac:Button>
+    <nac:Label MultiLine="True" Text="Độ dài &#xD;&#xA;bước kéo (mm)" TextDecorations="{x:Null}" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="20" FontStyle="Italic" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="39" Canvas.Left="69" Canvas.Top="232" />
+    <nacc1:Rectangle Fill="#FFD6E3F4" Stroke="{x:Null}" Name="m_Rectangle2" Width="192" Height="224" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="1" Canvas.Left="49" Canvas.Top="233">
+      <nacc1:Rectangle.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Raised" Width="2" />
+      </nacc1:Rectangle.BevelEffectInfo>
+    </nacc1:Rectangle>
+    <Line X1="241" Y1="285.5" X2="48.98" Y2="285.5" Stroke="#FFFFFFFF" StrokeThickness="2" Name="m_Line7" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="40" />
+    <nac:AnalogNumericFX AutoStretchFont="False" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" TextDecorations="{x:Null}" BorderBrush="#FF7F9DB9" BorderThickness="1,1,1,1" Foreground="#FF000000" FontSize="40" FontStyle="Normal" FontWeight="Normal" Padding="2,2,2,2" Name="m_AnalogNumeric8" Width="136" Height="103" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="True" Panel.ZIndex="41" KeyboardNavigation.TabNavigation="None" Canvas.Left="78" Canvas.Top="323">
+      <nac:AnalogNumericFX.Resources>
+        <ResourceDictionary>
+          <nacc:VariantValueConverter x:Key="ValueConverter" />
+        </ResourceDictionary>
+      </nac:AnalogNumericFX.Resources>
+      <nac:AnalogNumericFX.Value>
+        <Binding Source="{x:Static nacd:DataItemProxyFactory.Instance}" Path="[Tags.HMI_DoDaiBuocKeo].Value" Converter="{StaticResource ValueConverter}" ValidatesOnExceptions="True">
+          <Binding.FallbackValue>0</Binding.FallbackValue>
+        </Binding>
+      </nac:AnalogNumericFX.Value>
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Button ButtonAppearance="Rounded" CornerRadius="10,10,10,10" Text="CÀI ĐẶT THÔNG SỐ" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="{x:Null}" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="36" FontStyle="Normal" FontWeight="Normal" Name="m_Button6" Width="377" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" IsEnabled="True" Panel.ZIndex="38" Canvas.Left="194" Canvas.Top="-50" Style="{nac1:StyleMarkupExtension Glossy}" />
+    <nac:Button ButtonAppearance="Rounded" CornerRadius="10,10,10,10" Text="Trở lại" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="{x:Null}" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="26" FontStyle="Italic" FontWeight="Normal" Name="m_Button" Width="100" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" Visibility="Visible" IsEnabled="True" Panel.ZIndex="4" Canvas.Left="6" Canvas.Top="9" Style="{nac1:StyleMarkupExtension Glossy}">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Show Previous Screen">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="ActionBackScreen" ObjectName="GetService&lt;Neo.ApplicationFramework.Interfaces.IScreenManager&gt;()" EventName="Click" ReferenceType="Service" ObjectParentName="" ObjectPathProvider="" ObjectPath="" ExplicitAuditTrail="True" />
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+    </nac:Button>
+    <nac:Button ButtonAppearance="Rounded" CornerRadius="10,10,10,10" Text="CÀI ĐẶT THÔNG SỐ" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="{x:Null}" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="36" FontStyle="Normal" FontWeight="Normal" Name="m_Button3" Width="377" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" IsEnabled="True" Panel.ZIndex="33" Canvas.Left="194" Canvas.Top="8" Style="{nac1:StyleMarkupExtension Glossy}" />
+  </nacs:ElementCanvas>
+</nacs:ScreenWindow>

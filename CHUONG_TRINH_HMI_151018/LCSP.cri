@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.40.44.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="LCSP.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.AnalogNumeric8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.TouchComboBox1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Button2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.AnalogNumeric" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="LCSP.AnalogNumeric8" TargetProperty="Value" Source="Tags.Solosanpham" />
+        <Item xsi:type="ActionItem" Target="LCSP.TouchComboBox1" TargetProperty="Actions" Source="Tags.Tensanpham" Event="MouseDown" Action="Set String" Param="" />
+        <Item Target="LCSP.TouchComboBox1" TargetProperty="Value" Source="Tags.Masanpham" />
+        <Item Target="LCSP.AnalogNumeric" TargetProperty="Value" Source="Tags.HMI_NgaySX" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="LCSP.TouchComboBox1" Source="LCSP.m_TouchComboBox1.bmp" />
+        <Item Target="LCSP.Button" Source="-1867409461_Normal.bmp" />
+        <Item Target="LCSP.Button" Source="-1867409461_Pressed.bmp" />
+        <Item Target="LCSP.Button" Source="-1867409461_Disabled.bmp" />
+        <Item Target="LCSP.Button1" Source="-2084344364_Normal.bmp" />
+        <Item Target="LCSP.Button1" Source="-2084344364_Pressed.bmp" />
+        <Item Target="LCSP.Button1" Source="-2084344364_Disabled.bmp" />
+        <Item Target="LCSP.Button2" Source="862103551_Normal.bmp" />
+        <Item Target="LCSP.Button2" Source="862103551_Pressed.bmp" />
+        <Item Target="LCSP.Button2" Source="862103551_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="LCSP.Button2" TargetProperty="Actions" Source="OPERATE_2" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>LCSP</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>16</ObjectsCount>
+          <ScreenName>LCSP</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="LCSP.TouchComboBox1" TargetProperty="Actions" Source="Tags.Tensanpham" Event="MouseDown" Action="Set String" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="LCSP.Picture" Source="cvi-pharma" Width="57" Height="57" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

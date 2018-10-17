@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.40.44.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="LOGIN.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LOGIN.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LOGIN.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items />
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="LOGIN.Picture" TargetProperty="Actions" Source="QLSX" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="LOGIN.Picture5" TargetProperty="Actions" Source="OPERATOR" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="LOGIN.Picture1" TargetProperty="Actions" Source="TECHNICAL" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="LOGIN.Picture3" TargetProperty="Actions" Source="START" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>LOGIN</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>11</ObjectsCount>
+          <ScreenName>LOGIN</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="LOGIN.Picture" Source="teacher-male-512" Width="218" Height="218" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="LOGIN.Picture2" Source="cvi-pharma" Width="567" Height="567" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="LOGIN.Picture5" Source="14-512" Width="218" Height="218" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="LOGIN.Picture1" Source="engineering-icon-2" Width="218" Height="218" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="LOGIN.Picture3" Source="home-5-xxl" Width="54" Height="54" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

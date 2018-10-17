@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.40.44.0'?>
+<NeoItem d1p1:Serializer="Neo.ApplicationFramework.Common.Serialization.ObjectSerializer" xmlns:d1p1="urn:Neo.ApplicationFramework.Serializer">
+  <Object d1p1:type="Neo.ApplicationFramework.Tools.MessageLibrary.MessageLibrary, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" d1p1:Site.Name="TextLibrary" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
+    <Groups>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MessageLibrary.MessageGroup, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="MÃ_SẢN_PHẨM" d1p1:Site.Name="MÃ_SẢN_PHẨM" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
+        <Messages>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.MessageLibrary.MessageItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Message="AAA" StartValue="0" EndValue="0" Name="MÃ_SẢN_PHẨM_MessageItem0" DisplayName="MessageItem0" GroupName="MÃ_SẢN_PHẨM" d1p1:Site.Name="MÃ_SẢN_PHẨM_MessageItem0" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" />
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.MessageLibrary.MessageItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Message="BBB" StartValue="1" EndValue="1" Name="MÃ_SẢN_PHẨM_MessageItem1" DisplayName="MessageItem1" GroupName="MÃ_SẢN_PHẨM" d1p1:Site.Name="MÃ_SẢN_PHẨM_MessageItem1" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" />
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.MessageLibrary.MessageItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Message="CCC" StartValue="2" EndValue="2" Name="MÃ_SẢN_PHẨM_MessageItem2" DisplayName="MessageItem2" GroupName="MÃ_SẢN_PHẨM" d1p1:Site.Name="MÃ_SẢN_PHẨM_MessageItem2" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" />
+        </Messages>
+      </Object>
+    </Groups>
+  </Object>
+</NeoItem>

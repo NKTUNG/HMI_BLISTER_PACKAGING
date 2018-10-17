@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.40.44.0'?>
+<NeoItem d1p1:Serializer="Neo.ApplicationFramework.Common.Serialization.ObjectSerializer" xmlns:d1p1="urn:Neo.ApplicationFramework.Serializer">
+  <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalController, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" d1p1:Site.Name="Tags" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
+    <GlobalDataItems>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.SystemDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="40" Description="The username of the currently logged in user" NonVolatile="True" Size="100" DataType="DT_STRING" AccessRight="Read" d1p1:Site.Name="SystemTagCurrentUser" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <InstanceDescriptor DeclaringType="Neo.ApplicationFramework.Tools.OpcClient.SystemDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name=".ctor" MemberType="Constructor">
+          <Parameter Name="SystemTagInfoName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Current User" />
+          </Parameter>
+          <Parameter Name="Name">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SystemTagCurrentUser" />
+          </Parameter>
+          <Parameter Name="DataType">
+            <Object d1p1:type="Neo.ApplicationFramework.Interop.DataSource.BEDATATYPE, DataSourceInterop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" primitive.value="STRING" />
+          </Parameter>
+          <Parameter Name="Size">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="100" />
+          </Parameter>
+          <Parameter Name="Offset">
+            <Object d1p1:type="System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="0" />
+          </Parameter>
+          <Parameter Name="Gain">
+            <Object d1p1:type="System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+          </Parameter>
+          <Parameter Name="IndexRegisterNumber">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="0" />
+          </Parameter>
+          <Parameter Name="LogToAuditTrail">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="False" />
+          </Parameter>
+          <Parameter Name="TriggerName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Value Change" />
+          </Parameter>
+          <Parameter Name="AccessRight">
+            <Object d1p1:type="Core.Api.DataSource.AccessRights, CoreCF.Api, Version=0.0.2.0, Culture=neutral, PublicKeyToken=f9bf78ad04ede021">
+              <InstanceDescriptor DeclaringType="Core.Api.DataSource.AccessRights, CoreCF.Api, Version=0.0.2.0, Culture=neutral, PublicKeyToken=f9bf78ad04ede021" Name="Read" MemberType="Field" />
+            </Object>
+          </Parameter>
+          <Parameter Name="PollGroupName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="PollGroup1" />
+          </Parameter>
+          <Parameter Name="AlwaysActive">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="False" />
+          </Parameter>
+          <Parameter Name="NonVolatile">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="True" />
+          </Parameter>
+          <Parameter Name="GlobalDataType">
+            <Object d1p1:type="Neo.ApplicationFramework.Interop.DataSource.BEDATATYPE, DataSourceInterop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" primitive.value="DEFAULT" />
+          </Parameter>
+          <Parameter Name="Description">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="The username of the currently logged in user" />
+          </Parameter>
+          <Parameter Name="ArraySize">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+          </Parameter>
+          <Parameter Name="ReadExpression">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+          </Parameter>
+          <Parameter Name="WriteExpression">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+          </Parameter>
+        </InstanceDescriptor>
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="45" NonVolatile="True" d1p1:Site.Name="tram_han_tren" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="46" NonVolatile="True" d1p1:Site.Name="tramhanduoi" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="47" NonVolatile="True" d1p1:Site.Name="tramhanSeal" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="48" NonVolatile="True" d1p1:Site.Name="tramhanSolo" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="49" NonVolatile="True" GlobalDataType="DT_STRING" d1p1:Site.Name="Tensanpham" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="50" NonVolatile="True" GlobalDataType="DT_STRING" d1p1:Site.Name="Masanpham" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.SystemDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="51" Description="Name of the latest loaded recipe" NonVolatile="True" Size="100" DataType="DT_STRING" AccessRight="Read" d1p1:Site.Name="SystemTagLatestLoadedRecipeName" ActionName="" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <InstanceDescriptor DeclaringType="Neo.ApplicationFramework.Tools.OpcClient.SystemDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name=".ctor" MemberType="Constructor">
+          <Parameter Name="SystemTagInfoName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Latest Loaded Recipe Name" />
+          </Parameter>
+          <Parameter Name="Name">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SystemTagLatestLoadedRecipeName" />
+          </Parameter>
+          <Parameter Name="DataType">
+            <Object d1p1:type="Neo.ApplicationFramework.Interop.DataSource.BEDATATYPE, DataSourceInterop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" primitive.value="STRING" />
+          </Parameter>
+          <Parameter Name="Size">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="100" />
+          </Parameter>
+          <Parameter Name="Offset">
+            <Object d1p1:type="System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="0" />
+          </Parameter>
+          <Parameter Name="Gain">
+            <Object d1p1:type="System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+          </Parameter>
+          <Parameter Name="IndexRegisterNumber">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="0" />
+          </Parameter>
+          <Parameter Name="LogToAuditTrail">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="False" />
+          </Parameter>
+          <Parameter Name="TriggerName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Value Change" />
+          </Parameter>
+          <Parameter Name="AccessRight">
+            <Object d1p1:type="Core.Api.DataSource.AccessRights, CoreCF.Api, Version=0.0.2.0, Culture=neutral, PublicKeyToken=f9bf78ad04ede021">
+              <InstanceDescriptor DeclaringType="Core.Api.DataSource.AccessRights, CoreCF.Api, Version=0.0.2.0, Culture=neutral, PublicKeyToken=f9bf78ad04ede021" Name="Read" MemberType="Field" />
+            </Object>
+          </Parameter>
+          <Parameter Name="PollGroupName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="PollGroup1" />
+          </Parameter>
+          <Parameter Name="AlwaysActive">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="False" />
+          </Parameter>
+          <Parameter Name="NonVolatile">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="True" />
+          </Parameter>
+          <Parameter Name="GlobalDataType">
+            <Object d1p1:type="Neo.ApplicationFramework.Interop.DataSource.BEDATATYPE, DataSourceInterop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" primitive.value="DEFAULT" />
+          </Parameter>
+          <Parameter Name="Description">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Name of the latest loaded recipe" />
+          </Parameter>
+          <Parameter Name="ArraySize">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+          </Parameter>
+          <Parameter Name="ReadExpression">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+          </Parameter>
+          <Parameter Name="WriteExpression">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+          </Parameter>
+        </InstanceDescriptor>
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+        <Events>
+          <Event Name="ValueChange" EventHandler="SystemTagLatestLoadedRecipeName_ValueChange" />
+        </Events>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="55" NonVolatile="True" d1p1:Site.Name="Canhbaotren" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="56" NonVolatile="True" d1p1:Site.Name="Canhbaoduoi" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="57" NonVolatile="True" d1p1:Site.Name="CanhbaoSeal" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="58" NonVolatile="True" d1p1:Site.Name="CanhbaoSolo" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.SystemDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="59" Description="Current date and time" DataType="DT_DATETIME" AccessRight="Read" d1p1:Site.Name="SystemTagDateTime" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <InstanceDescriptor DeclaringType="Neo.ApplicationFramework.Tools.OpcClient.SystemDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name=".ctor" MemberType="Constructor">
+          <Parameter Name="SystemTagInfoName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="DateTime" />
+          </Parameter>
+          <Parameter Name="Name">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SystemTagDateTime" />
+          </Parameter>
+          <Parameter Name="DataType">
+            <Object d1p1:type="Neo.ApplicationFramework.Interop.DataSource.BEDATATYPE, DataSourceInterop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" primitive.value="DATETIME" />
+          </Parameter>
+          <Parameter Name="Size">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+          </Parameter>
+          <Parameter Name="Offset">
+            <Object d1p1:type="System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="0" />
+          </Parameter>
+          <Parameter Name="Gain">
+            <Object d1p1:type="System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+          </Parameter>
+          <Parameter Name="IndexRegisterNumber">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="0" />
+          </Parameter>
+          <Parameter Name="LogToAuditTrail">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="False" />
+          </Parameter>
+          <Parameter Name="TriggerName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Value Change" />
+          </Parameter>
+          <Parameter Name="AccessRight">
+            <Object d1p1:type="Core.Api.DataSource.AccessRights, CoreCF.Api, Version=0.0.2.0, Culture=neutral, PublicKeyToken=f9bf78ad04ede021">
+              <InstanceDescriptor DeclaringType="Core.Api.DataSource.AccessRights, CoreCF.Api, Version=0.0.2.0, Culture=neutral, PublicKeyToken=f9bf78ad04ede021" Name="Read" MemberType="Field" />
+            </Object>
+          </Parameter>
+          <Parameter Name="PollGroupName">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="PollGroup1" />
+          </Parameter>
+          <Parameter Name="AlwaysActive">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="False" />
+          </Parameter>
+          <Parameter Name="NonVolatile">
+            <Object d1p1:type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="False" />
+          </Parameter>
+          <Parameter Name="GlobalDataType">
+            <Object d1p1:type="Neo.ApplicationFramework.Interop.DataSource.BEDATATYPE, DataSourceInterop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" primitive.value="DEFAULT" />
+          </Parameter>
+          <Parameter Name="Description">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Current date and time" />
+          </Parameter>
+          <Parameter Name="ArraySize">
+            <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+          </Parameter>
+          <Parameter Name="ReadExpression">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+          </Parameter>
+          <Parameter Name="WriteExpression">
+            <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+          </Parameter>
+        </InstanceDescriptor>
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" InitialValue="10/1/2018 3:40:32 PM" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="60" d1p1:Site.Name="sosanpham" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="61" NonVolatile="True" d1p1:Site.Name="Solosanpham" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="62" d1p1:Site.Name="nhiethantrenhientai" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="63" d1p1:Site.Name="nhiethanduoihientai" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="64" d1p1:Site.Name="nhiethansealhientai" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="65" d1p1:Site.Name="nhiethansolohientai" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="66" d1p1:Site.Name="tanso" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="67" d1p1:Site.Name="nhipcat" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="68" d1p1:Site.Name="Nhiettren" ActionName="" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="69" d1p1:Site.Name="Nhietduoi" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="70" d1p1:Site.Name="NhietSeal" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="71" d1p1:Site.Name="NhietSoLo" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="72" NonVolatile="True" d1p1:Site.Name="TenThietbi" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="73" NonVolatile="True" d1p1:Site.Name="Modelthietbi" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="74" NonVolatile="True" d1p1:Site.Name="Mathietbi" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="75" d1p1:Site.Name="TongSovi" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="76" d1p1:Site.Name="SoViLoi" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="77" d1p1:Site.Name="MaSanPham1" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="78" DataType="DT_UINTEGER2" GlobalDataType="DT_INTEGER2" d1p1:Site.Name="TrangThaiHeThong" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" InitialValue="0" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="79" d1p1:Site.Name="HMI_DoDaiBuocKeo" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SynchId="80" GlobalDataType="DT_INTEGER4" d1p1:Site.Name="HMI_NgaySX" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsExposed="True">
+        <GlobalDataSubItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.GlobalDataSubItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" />
+        </GlobalDataSubItems>
+      </Object>
+    </GlobalDataItems>
+    <PollGroups>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.PollGroup, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="PollGroup1" Interval="500" d1p1:Site.Name="PollGroup1" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.PollGroup, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="PollGroup2" Interval="500" d1p1:Site.Name="PollGroup2" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.PollGroup, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="PollGroup3" Interval="500" d1p1:Site.Name="PollGroup3" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.PollGroup, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="PollGroup4" Interval="500" d1p1:Site.Name="PollGroup4" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.PollGroup, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="PollGroup5" Interval="500" d1p1:Site.Name="PollGroup5" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" />
+    </PollGroups>
+    <Events>
+      <Event Name="ServerInfo" EventHandler="Tags_ServerInfo" />
+    </Events>
+  </Object>
+</NeoItem>

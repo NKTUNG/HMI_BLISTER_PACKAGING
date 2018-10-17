@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.40.44.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="REPORT.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.Button2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.Text3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.AnalogNumeric8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="REPORT.TouchComboBox1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.Text4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.Text5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="REPORT.Text6" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.AnalogNumeric" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="REPORT.Text7" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.AnalogNumeric1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="REPORT.Text9" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.Text10" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="REPORT.Text28" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="REPORT.AnalogNumeric8" TargetProperty="Value" Source="Tags.Solosanpham" />
+        <Item xsi:type="ActionItem" Target="REPORT.TouchComboBox1" TargetProperty="Actions" Source="Tags.Tensanpham" Event="MouseDown" Action="Set String" Param="" />
+        <Item Target="REPORT.TouchComboBox1" TargetProperty="Value" Source="Tags.Masanpham" />
+        <Item Target="REPORT.Text5" TargetProperty="Value" Source="Tags.HMI_NgaySX" />
+        <Item Target="REPORT.AnalogNumeric" TargetProperty="Value" Source="Tags.sosanpham" />
+        <Item Target="REPORT.AnalogNumeric1" TargetProperty="Value" Source="Tags.SoViLoi" />
+        <Item Target="REPORT.Text10" TargetProperty="Value" Source="Tags.SystemTagCurrentUser" />
+        <Item Target="REPORT.Text28" TargetProperty="Value" Source="Tags.SystemTagCurrentUser" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="REPORT.Button" Source="-1179089179_Normal.bmp" />
+        <Item Target="REPORT.Button" Source="-1179089179_Pressed.bmp" />
+        <Item Target="REPORT.Button" Source="-1179089179_Disabled.bmp" />
+        <Item Target="REPORT.Button2" Source="-1179089179_Normal.bmp" />
+        <Item Target="REPORT.Button2" Source="-1179089179_Pressed.bmp" />
+        <Item Target="REPORT.Button2" Source="-1179089179_Disabled.bmp" />
+        <Item Target="REPORT.TouchComboBox1" Source="REPORT.m_TouchComboBox1.bmp" />
+        <Item Target="REPORT.Button1" Source="-892524529_Normal.bmp" />
+        <Item Target="REPORT.Button1" Source="-892524529_Pressed.bmp" />
+        <Item Target="REPORT.Button1" Source="-892524529_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items>
+        <Item xsi:type="ActionItem" Target="REPORT.Button2" TargetProperty="Actions" Source="Reports.Report1" Event="Click" Action="Generate report" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>REPORT</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>24</ObjectsCount>
+          <ScreenName>REPORT</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="REPORT.TouchComboBox1" TargetProperty="Actions" Source="Tags.Tensanpham" Event="MouseDown" Action="Set String" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="REPORT.Picture" Source="cvi-pharma" Width="60" Height="60" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

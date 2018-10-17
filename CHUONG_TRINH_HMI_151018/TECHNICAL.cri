@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.40.44.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="TECHNICAL.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="TECHNICAL.Text3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="TECHNICAL.Text4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="TECHNICAL.Text5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="TECHNICAL.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="TECHNICAL.Text" TargetProperty="Value" Source="Tags.SystemTagCurrentUser" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="TECHNICAL.Picture4" TargetProperty="Actions" Source="ALARM" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="TECHNICAL.Picture2" TargetProperty="Actions" Source="DRAG_OPERATION" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="TECHNICAL.Picture3" TargetProperty="Actions" Source="OPERATE_2" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="TECHNICAL.Picture5" TargetProperty="Actions" Source="LOGIN" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="TECHNICAL.Picture6" TargetProperty="Actions" Source="START" Event="MouseDown" Action="Show Screen" Param="" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>TECHNICAL</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>12</ObjectsCount>
+          <ScreenName>TECHNICAL</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="TECHNICAL.Script.cs" Source="Tags.TrangThaiHeThong" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture" Source="engineering-icon-2" Width="50" Height="50" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture1" Source="images (1)" Width="152" Height="152" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture4" Source="images (1) (1)" Width="160" Height="160" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture2" Source="easysetup" Width="150" Height="150" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture3" Source="automation_power_application_configuration_setup_process_install-512" Width="128" Height="128" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture5" Source="home-5-xxl" Width="54" Height="54" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture6" Source="tải xuống (1)" Width="38" Height="38" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>
