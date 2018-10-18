@@ -25,7 +25,7 @@
     <Category Name="Font">
       <Items>
         <Item Target="LOGINHISTORY.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="LOGINHISTORY.AuditTrailViewer" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LOGINHISTORY.AuditTrailViewer" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="LOGINHISTORY.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="LOGINHISTORY.Text28" TargetProperty="FontFamily" Source="ARIAL.TTF" />
       </Items>

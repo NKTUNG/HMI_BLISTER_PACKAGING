@@ -26,21 +26,56 @@
       <Items>
         <Item Target="LCSP.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="LCSP.AnalogNumeric8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="LCSP.TouchComboBox1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text6" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text13" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text14" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text7" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text9" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text11" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text12" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text15" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text16" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text10" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text17" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text18" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text19" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text20" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text21" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text22" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text23" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text24" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="LCSP.Text28" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="LCSP.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="LCSP.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="LCSP.Button2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="LCSP.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="LCSP.Text5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="LCSP.AnalogNumeric" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Button5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Button4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Button3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="LCSP.Text3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
       </Items>
     </Category>
     <Category Name="GlobalDataItem">
       <Items>
         <Item Target="LCSP.AnalogNumeric8" TargetProperty="Value" Source="Tags.Solosanpham" />
-        <Item xsi:type="ActionItem" Target="LCSP.TouchComboBox1" TargetProperty="Actions" Source="Tags.Tensanpham" Event="MouseDown" Action="Set String" Param="" />
-        <Item Target="LCSP.TouchComboBox1" TargetProperty="Value" Source="Tags.Masanpham" />
-        <Item Target="LCSP.AnalogNumeric" TargetProperty="Value" Source="Tags.HMI_NgaySX" />
+        <Item Target="LCSP.Text11" TargetProperty="Value" Source="Tags.tram_han_tren" />
+        <Item Target="LCSP.Text12" TargetProperty="Value" Source="Tags.tramhanduoi" />
+        <Item Target="LCSP.Text15" TargetProperty="Value" Source="Tags.tramhanSeal" />
+        <Item Target="LCSP.Text16" TargetProperty="Value" Source="Tags.tramhanSolo" />
+        <Item Target="LCSP.Text10" TargetProperty="Value" Source="Tags.tram_han_tren" />
+        <Item Target="LCSP.Text17" TargetProperty="Value" Source="Tags.tramhanduoi" />
+        <Item Target="LCSP.Text18" TargetProperty="Value" Source="Tags.tramhanSeal" />
+        <Item Target="LCSP.Text19" TargetProperty="Value" Source="Tags.tramhanSolo" />
+        <Item Target="LCSP.Text20" TargetProperty="Value" Source="Tags.Canhbaotren" />
+        <Item Target="LCSP.Text21" TargetProperty="Value" Source="Tags.Canhbaoduoi" />
+        <Item Target="LCSP.Text22" TargetProperty="Value" Source="Tags.CanhbaoSeal" />
+        <Item Target="LCSP.Text23" TargetProperty="Value" Source="Tags.CanhbaoSolo" />
+        <Item Target="LCSP.Text24" TargetProperty="Value" Source="Tags.HMI_DoDaiBuocKeo" />
+        <Item Target="LCSP.Text28" TargetProperty="Value" Source="Tags.SystemTagCurrentUser" />
+        <Item Target="LCSP.Text3" TargetProperty="Value" Source="Tags.SystemTagLatestLoadedRecipeName" />
       </Items>
     </Category>
     <Category Name="IntegratorSwapActiveProjectAction">
@@ -53,20 +88,27 @@
       <Items />
     </Category>
     <Category Name="Recipe">
-      <Items />
+      <Items>
+        <Item xsi:type="ActionItem" Target="LCSP.Button3" TargetProperty="Actions" Source="Recipe1" Event="Click" Action="Load Recipe" Param="" />
+      </Items>
     </Category>
     <Category Name="Renderable">
       <Items>
-        <Item Target="LCSP.TouchComboBox1" Source="LCSP.m_TouchComboBox1.bmp" />
         <Item Target="LCSP.Button" Source="-1867409461_Normal.bmp" />
         <Item Target="LCSP.Button" Source="-1867409461_Pressed.bmp" />
         <Item Target="LCSP.Button" Source="-1867409461_Disabled.bmp" />
-        <Item Target="LCSP.Button1" Source="-2084344364_Normal.bmp" />
-        <Item Target="LCSP.Button1" Source="-2084344364_Pressed.bmp" />
-        <Item Target="LCSP.Button1" Source="-2084344364_Disabled.bmp" />
-        <Item Target="LCSP.Button2" Source="862103551_Normal.bmp" />
-        <Item Target="LCSP.Button2" Source="862103551_Pressed.bmp" />
-        <Item Target="LCSP.Button2" Source="862103551_Disabled.bmp" />
+        <Item Target="LCSP.Button1" Source="2015808613_Normal.bmp" />
+        <Item Target="LCSP.Button1" Source="2015808613_Pressed.bmp" />
+        <Item Target="LCSP.Button1" Source="2015808613_Disabled.bmp" />
+        <Item Target="LCSP.Button5" Source="2015808613_Normal.bmp" />
+        <Item Target="LCSP.Button5" Source="2015808613_Pressed.bmp" />
+        <Item Target="LCSP.Button5" Source="2015808613_Disabled.bmp" />
+        <Item Target="LCSP.Button4" Source="2015808613_Normal.bmp" />
+        <Item Target="LCSP.Button4" Source="2015808613_Pressed.bmp" />
+        <Item Target="LCSP.Button4" Source="2015808613_Disabled.bmp" />
+        <Item Target="LCSP.Button3" Source="-491118820_Normal.bmp" />
+        <Item Target="LCSP.Button3" Source="-491118820_Pressed.bmp" />
+        <Item Target="LCSP.Button3" Source="-491118820_Disabled.bmp" />
       </Items>
     </Category>
     <Category Name="Report">
@@ -74,12 +116,12 @@
     </Category>
     <Category Name="Screen">
       <Items>
-        <Item xsi:type="ActionItem" Target="LCSP.Button2" TargetProperty="Actions" Source="OPERATE_2" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="LCSP.Button5" TargetProperty="Actions" Source="OPERATE_2" Event="Click" Action="Show Screen" Param="Default" />
         <Item xsi:type="ScreenIDItem" ScreenID="">
           <ScreenName>LCSP</ScreenName>
         </Item>
         <Item xsi:type="ScreenObjectsCrossReferenceItem">
-          <ObjectsCount>16</ObjectsCount>
+          <ObjectsCount>46</ObjectsCount>
           <ScreenName>LCSP</ScreenName>
         </Item>
       </Items>
@@ -88,9 +130,7 @@
       <Items />
     </Category>
     <Category Name="StructuredTag">
-      <Items>
-        <Item xsi:type="ActionItem" Target="LCSP.TouchComboBox1" TargetProperty="Actions" Source="Tags.Tensanpham" Event="MouseDown" Action="Set String" Param="" />
-      </Items>
+      <Items />
     </Category>
     <Category Name="Symbol">
       <Items>

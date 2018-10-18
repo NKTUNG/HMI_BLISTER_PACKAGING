@@ -13,15 +13,13 @@
         </nai:ActionList>
       </nai:ActionProperties.Actions>
     </nac:Button>
-    <naca:AuditTrailViewer VistaStyle="True" Background="#FFFFFFFF" FontFamily="Tahoma" FontSize="20" FontStyle="Normal" FontWeight="Normal" Name="m_AuditTrailViewer" Width="777" Height="358" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="3" Canvas.Left="13" Canvas.Top="101">
+    <naca:AuditTrailViewer ColumnHeaderBackgroundColor="#FFBFB2CF" VistaStyle="True" Background="#FFFFFFFF" FontFamily="Arial" FontSize="22" FontStyle="Normal" FontWeight="Normal" Name="m_AuditTrailViewer" Width="777" Height="384" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="3" Canvas.Left="13" Canvas.Top="84">
       <naca:AuditTrailViewer.VisibleColumns>
         <x:Array Type="nai1:IColumnInfo">
-          <nacl:AlarmColumnInfo MappingName="Message" HeaderName="Message" ColumnWidth="151" />
-          <nacl:AlarmColumnInfo MappingName="Description" HeaderName="Description" ColumnWidth="110" />
-          <nacl:AlarmColumnInfo MappingName="ValueBefore" HeaderName="Value Before" ColumnWidth="130" />
-          <nacl:AlarmColumnInfo MappingName="ValueAfter" HeaderName="Value After" ColumnWidth="120" />
-          <nacl:AlarmColumnInfo MappingName="TimeStamp" HeaderName="Time Stamp" ColumnWidth="120" />
-          <nacl:AlarmColumnInfo MappingName="UserName" HeaderName="User Name" ColumnWidth="120" />
+          <nacl:AlarmColumnInfo MappingName="Message" HeaderName="Sự kiện" ColumnWidth="290" />
+          <nacl:AlarmColumnInfo MappingName="Description" HeaderName="Mô tả" ColumnWidth="200" />
+          <nacl:AlarmColumnInfo MappingName="TimeStamp" HeaderName="Thời gian" ColumnWidth="150" />
+          <nacl:AlarmColumnInfo MappingName="UserName" HeaderName="Người dùng" ColumnWidth="130" />
         </x:Array>
       </naca:AuditTrailViewer.VisibleColumns>
     </naca:AuditTrailViewer>

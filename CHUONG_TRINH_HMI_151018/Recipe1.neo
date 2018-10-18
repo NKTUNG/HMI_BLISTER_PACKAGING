@@ -1,203 +1,253 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?neo version='2.40.44.0'?>
 <NeoItem d1p1:Serializer="Neo.ApplicationFramework.Common.Serialization.ObjectSerializer" xmlns:d1p1="urn:Neo.ApplicationFramework.Serializer">
-  <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.Recipe, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SchemaVersion="171" DataVersion="4" Guid="e4f23a8f-c0d4-4707-a302-1bc3c96edb27" TableName="Recipe1" d1p1:Site.Name="Recipe1" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
+  <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.Recipe, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" SchemaVersion="201" DataVersion="19" Guid="e4f23a8f-c0d4-4707-a302-1bc3c96edb27" TableName="Recipe1" d1p1:Site.Name="Recipe1" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
     <RecipeItems>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem1" DataConnection="Tags.tram_han_tren" ColumnName="RecipeItem1" VisualSortOrder="1" d1p1:Site.Name="RecipeItem1" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="51" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="52" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="53" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="52" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem2" DataConnection="Tags.tramhanduoi" ColumnName="RecipeItem2" VisualSortOrder="2" d1p1:Site.Name="RecipeItem2" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="51" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="52" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="53" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="52" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem3" DataConnection="Tags.tramhanSeal" ColumnName="RecipeItem3" VisualSortOrder="3" d1p1:Site.Name="RecipeItem3" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="51" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="52" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="53" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="52" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem4" DataConnection="Tags.tramhanSolo" ColumnName="RecipeItem4" VisualSortOrder="4" d1p1:Site.Name="RecipeItem4" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="51" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="52" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="53" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="52" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem5" DataConnection="Tags.Canhbaotren" ColumnName="RecipeItem5" VisualSortOrder="5" d1p1:Site.Name="RecipeItem5" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="99" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="98" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="97" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="98" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem6" DataConnection="Tags.Canhbaoduoi" ColumnName="RecipeItem6" VisualSortOrder="6" d1p1:Site.Name="RecipeItem6" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="89" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="88" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="87" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="88" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem7" DataConnection="Tags.CanhbaoSeal" ColumnName="RecipeItem7" VisualSortOrder="7" d1p1:Site.Name="RecipeItem7" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="79" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="78" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="77" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="78" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem8" DataConnection="Tags.CanhbaoSolo" ColumnName="RecipeItem8" VisualSortOrder="8" d1p1:Site.Name="RecipeItem8" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="69" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="68" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="67" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="68" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem9" DataConnection="Tags.Masanpham" ColumnName="RecipeItem9" VisualSortOrder="9" d1p1:Site.Name="RecipeItem9" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
-              <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="AAA" />
+              <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SangHong01" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="BBB" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
-              <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="CCC" />
+              <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SangHong03" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SangHong02" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem10" DataConnection="Tags.HMI_DoDaiBuocKeo" ColumnName="RecipeItem10" VisualSortOrder="10" d1p1:Site.Name="RecipeItem10" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152">
         <RecipeDataItems>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamA">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH01">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="10" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamB">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="11" />
             </RuntimeData>
           </Object>
-          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SanphamC">
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH03">
             <RuntimeData>
               <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="12" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="SH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="11" />
             </RuntimeData>
           </Object>
         </RecipeDataItems>
       </Object>
     </RecipeItems>
     <FieldNames>
-      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SanphamA" />
-      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SanphamB" />
-      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SanphamC" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SH01" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SH03" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SH02" />
     </FieldNames>
   </Object>
 </NeoItem>

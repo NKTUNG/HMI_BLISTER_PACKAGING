@@ -10,7 +10,7 @@
     <nai:ActionList />
   </nai:ActionProperties.Actions>
   <nacs:ElementCanvas Name="m_EditorCanvas" Width="800" Height="480" FocusVisualStyle="{x:Null}" AllowDrop="True" ClipToBounds="True" Focusable="True" TextOptions.TextFormattingMode="Display" TextOptions.TextRenderingMode="ClearType" Panel.ZIndex="104">
-    <nac:Label AutoSize="False" MultiLine="True" Text="Lỗi thiết bị" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="26" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6.5,0,6.5,1" Name="m_Text1" Width="137" Height="72" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="2" Canvas.Left="624" Canvas.Top="333">
+    <nac:Label AutoSize="False" MultiLine="True" Text="Lỗi thiết bị" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="26" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6.5,0,6.5,1" Name="m_Text1" Width="137" Height="72" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="2" Canvas.Left="618" Canvas.Top="333">
       <nac:Label.BevelEffectInfo>
         <nacb:BevelEffectInfo Style="Raised" Width="2" />
       </nac:Label.BevelEffectInfo>
@@ -18,7 +18,7 @@
         <nai:ActionList />
       </nai:ActionProperties.Actions>
     </nac:Label>
-    <nac:Label AutoSize="False" MultiLine="True" Text="Vận hành" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="26" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6.5,0,6.5,1" Name="m_Text3" Width="128" Height="72" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="7" Canvas.Left="241" Canvas.Top="333">
+    <nac:Label AutoSize="False" MultiLine="True" Text="Điều khiển &#xD;&#xA;thiết bị" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="26" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6.5,0,6.5,1" Name="m_Text3" Width="146" Height="72" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="7" Canvas.Left="226" Canvas.Top="333">
       <nac:Label.BevelEffectInfo>
         <nacb:BevelEffectInfo Style="Raised" Width="2" />
       </nac:Label.BevelEffectInfo>
@@ -26,7 +26,7 @@
         <nai:ActionList />
       </nai:ActionProperties.Actions>
     </nac:Label>
-    <nac:Label MultiLine="True" Text="Hiệu chuẩn &#xD;&#xA;thiết bị đo" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="26" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6.5,0,6.5,1" Name="m_Text4" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="9" Canvas.Left="421" Canvas.Top="333">
+    <nac:Label MultiLine="True" Text="Hiệu chuẩn &#xD;&#xA;cảm biến" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="26" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6.5,0,6.5,1" Name="m_Text4" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="9" Canvas.Left="415" Canvas.Top="333">
       <nac:Label.BevelEffectInfo>
         <nacb:BevelEffectInfo Style="Raised" Width="2" />
       </nac:Label.BevelEffectInfo>
@@ -34,7 +34,7 @@
         <nai:ActionList />
       </nai:ActionProperties.Actions>
     </nac:Label>
-    <nac:Label MultiLine="True" Text="Hiệu chỉnh&#xD;&#xA; thiết bị" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="26" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6.5,0,6.5,1" Name="m_Text5" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="10" Canvas.Left="56" Canvas.Top="333">
+    <nac:Label MultiLine="True" Text="Hiệu chỉnh&#xD;&#xA; thiết bị" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Arial" FontSize="26" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6.5,0,6.5,1" Name="m_Text5" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="10" Canvas.Left="49" Canvas.Top="333">
       <nac:Label.BevelEffectInfo>
         <nacb:BevelEffectInfo Style="Raised" Width="2" />
       </nac:Label.BevelEffectInfo>
@@ -43,8 +43,8 @@
       </nai:ActionProperties.Actions>
     </nac:Label>
     <nacs1:Picture SymbolName="engineering-icon-2" Name="m_Picture" Width="50" Height="50" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="12" Canvas.Left="519" Canvas.Top="25" />
-    <nacs1:Picture SymbolName="images (1)" Name="m_Picture1" Width="152" Height="152" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="13" Canvas.Left="420" Canvas.Top="165" />
-    <nacs1:Picture SymbolName="images (1) (1)" Name="m_Picture4" Width="160" Height="160" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="17" Canvas.Left="606" Canvas.Top="165">
+    <nacs1:Picture SymbolName="images (1)" Name="m_Picture1" Width="152" Height="152" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="13" Canvas.Left="414" Canvas.Top="165" />
+    <nacs1:Picture SymbolName="images (1) (1)" Name="m_Picture4" Width="160" Height="160" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="17" Canvas.Left="595" Canvas.Top="165">
       <nai:ActionProperties.Actions>
         <nai:ActionList>
           <nata:Action Name="Show Screen">
@@ -61,7 +61,7 @@
         </nai:ActionList>
       </nai:ActionProperties.Actions>
     </nacs1:Picture>
-    <nacs1:Picture SymbolName="easysetup" Name="m_Picture2" Width="150" Height="150" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="18" Canvas.Left="55" Canvas.Top="170">
+    <nacs1:Picture SymbolName="easysetup" Name="m_Picture2" Width="150" Height="150" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="18" Canvas.Left="49" Canvas.Top="170">
       <nai:ActionProperties.Actions>
         <nai:ActionList>
           <nata:Action Name="Show Screen">
@@ -78,7 +78,7 @@
         </nai:ActionList>
       </nai:ActionProperties.Actions>
     </nacs1:Picture>
-    <nacs1:Picture SymbolName="automation_power_application_configuration_setup_process_install-512" Name="m_Picture3" Width="128" Height="128" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="19" Canvas.Left="241" Canvas.Top="181">
+    <nacs1:Picture SymbolName="automation_power_application_configuration_setup_process_install-512" Name="m_Picture3" Width="128" Height="128" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="19" Canvas.Left="235" Canvas.Top="181">
       <nai:ActionProperties.Actions>
         <nai:ActionList>
           <nata:Action Name="Show Screen">
@@ -95,7 +95,7 @@
         </nai:ActionList>
       </nai:ActionProperties.Actions>
     </nacs1:Picture>
-    <nacs1:Picture SymbolName="home-5-xxl" Name="m_Picture5" Width="54" Height="54" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="20" Canvas.Left="20" Canvas.Top="16">
+    <nacs1:Picture SymbolName="home-5-xxl" Name="m_Picture5" Width="54" Height="54" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="20" Canvas.Left="13" Canvas.Top="23">
       <nai:ActionProperties.Actions>
         <nai:ActionList>
           <nata:Action Name="Show Screen">
@@ -112,7 +112,7 @@
         </nai:ActionList>
       </nai:ActionProperties.Actions>
     </nacs1:Picture>
-    <nacs1:Picture SymbolName="tải xuống (1)" Name="m_Picture6" Width="38" Height="38" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="21" Canvas.Left="699" Canvas.Top="32">
+    <nacs1:Picture SymbolName="tải xuống (1)" Name="m_Picture6" Width="40" Height="40" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="21" Canvas.Left="721" Canvas.Top="31">
       <nai:ActionProperties.Actions>
         <nai:ActionList>
           <nata:MultiAction Name="Multi Action">

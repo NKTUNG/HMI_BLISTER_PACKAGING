@@ -86,7 +86,7 @@
         <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture2" Source="easysetup" Width="150" Height="150" IsAnimated="false" />
         <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture3" Source="automation_power_application_configuration_setup_process_install-512" Width="128" Height="128" IsAnimated="false" />
         <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture5" Source="home-5-xxl" Width="54" Height="54" IsAnimated="false" />
-        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture6" Source="tải xuống (1)" Width="38" Height="38" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="TECHNICAL.Picture6" Source="tải xuống (1)" Width="40" Height="40" IsAnimated="false" />
       </Items>
     </Category>
     <Category Name="TextLibrary">

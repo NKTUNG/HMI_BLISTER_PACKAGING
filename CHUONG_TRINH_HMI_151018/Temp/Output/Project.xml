@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project SchemaVersion="2.40.44.0" ProjectRevision="428">
+  <Guid>2cea7606-4631-427a-b994-925e544e1152</Guid>
+  <ProjectFiles>
+    <ProjectFile Name="Project Files\Reports\Templates\BATCH REPORT 2003.xls" ModifiedDate="2018-10-02T11:12:34.108+07:00" Length="36864" />
+    <ProjectFile Name="ProjectImages.neo" ModifiedDate="2018-10-02T11:41:02.927+07:00" Length="454" />
+    <ProjectFile Name="Symbols\14-512.png" ModifiedDate="2018-09-25T11:30:53.32+07:00" Length="38910" />
+    <ProjectFile Name="Symbols\automation_power_application_configuration_setup_process_install-512.png" ModifiedDate="2018-09-25T12:03:55.538+07:00" Length="27250" />
+    <ProjectFile Name="Symbols\bullseye (1).png" ModifiedDate="2018-10-01T11:48:53.826+07:00" Length="5407" />
+    <ProjectFile Name="Symbols\close.png" ModifiedDate="2018-10-01T13:43:26.598+07:00" Length="7168" />
+    <ProjectFile Name="Symbols\cool-choices-verified-energy-reports-icon.png" ModifiedDate="2018-10-02T11:39:23.878+07:00" Length="20181" />
+    <ProjectFile Name="Symbols\delete recipe (1).png" ModifiedDate="2018-10-01T13:43:26.593+07:00" Length="5877" />
+    <ProjectFile Name="Symbols\easysetup.png" ModifiedDate="2018-09-25T12:02:15.746+07:00" Length="36217" />
+    <ProjectFile Name="Symbols\home-5-xxl.png" ModifiedDate="2018-09-25T15:48:43.216+07:00" Length="5642" />
+    <ProjectFile Name="Symbols\images (1) (2).png" ModifiedDate="2018-10-01T21:30:28.72+07:00" Length="1413" />
+    <ProjectFile Name="Symbols\images (2).png" ModifiedDate="2018-10-02T11:35:39.426+07:00" Length="3311" />
+    <ProjectFile Name="Symbols\images.png" ModifiedDate="2018-09-25T11:56:47.825+07:00" Length="3789" />
+    <ProjectFile Name="Symbols\load recipe (1).png" ModifiedDate="2018-10-01T11:48:53.834+07:00" Length="4823" />
+    <ProjectFile Name="Symbols\login-512.png" ModifiedDate="2018-09-25T13:09:02.088+07:00" Length="26183" />
+    <ProjectFile Name="Symbols\save recipe (1).png" ModifiedDate="2018-10-01T13:43:26.58+07:00" Length="4167" />
+    <ProjectFile Name="Symbols\teacher-male-512.png" ModifiedDate="2018-09-25T11:09:15.878+07:00" Length="69197" />
+    <ProjectFile Name="Symbols\tải xuống (1).png" ModifiedDate="2018-09-25T16:12:21.402+07:00" Length="2400" />
+    <ProjectFile Name="Symbols\tải xuống.png" ModifiedDate="2018-09-25T13:43:54.038+07:00" Length="7209" />
+    <ProjectFile Name="Symbols\cvi-pharma.jpg" ModifiedDate="2018-09-24T16:30:25.547+07:00" Length="57287" />
+    <ProjectFile Name="Symbols\engineering-icon-2.jpg" ModifiedDate="2018-09-25T11:05:21.697+07:00" Length="97298" />
+    <ProjectFile Name="Symbols\images (1) (1).jpg" ModifiedDate="2018-09-25T14:31:31.252+07:00" Length="4786" />
+    <ProjectFile Name="Symbols\images (1).jpg" ModifiedDate="2018-09-25T13:35:33.7+07:00" Length="8077" />
+    <ProjectFile Name="Symbols\log in.gif" ModifiedDate="2018-04-14T03:46:34+07:00" Length="5839" />
+    <ProjectFile Name="Symbols\beijer-electronics1.lib" ModifiedDate="2018-04-14T03:46:52+07:00" Length="9452" />
+    <ProjectFile Name="Symbols\bulb (1).lib" ModifiedDate="2018-09-13T14:21:58.268+07:00" Length="30406" />
+    <ProjectFile Name="Symbols\bulb off (1).lib" ModifiedDate="2018-09-13T14:21:58.739+07:00" Length="27625" />
+    <ProjectFile Name="Symbols\flip switch1.lib" ModifiedDate="2018-09-13T14:08:49.986+07:00" Length="25879" />
+    <ProjectFile Name="Symbols\flip switch2.lib" ModifiedDate="2018-09-13T14:08:50.287+07:00" Length="25462" />
+    <ProjectFile Name="Symbols\lamp1.lib" ModifiedDate="2018-09-13T14:23:10.146+07:00" Length="39668" />
+    <ProjectFile Name="Symbols\lamp1off.lib" ModifiedDate="2018-09-13T14:23:10.412+07:00" Length="37782" />
+    <ProjectFile Name="Symbols\rocker switch2 off.lib" ModifiedDate="2018-09-13T14:11:00.712+07:00" Length="11891" />
+    <ProjectFile Name="Symbols\rocker switch2 on.lib" ModifiedDate="2018-09-13T14:11:00.972+07:00" Length="11957" />
+    <ProjectFile Name="Symbols\rocker switch3 off.lib" ModifiedDate="2018-09-13T14:11:19.866+07:00" Length="11377" />
+    <ProjectFile Name="Symbols\rocker switch3 on.lib" ModifiedDate="2018-09-13T14:11:20.099+07:00" Length="11473" />
+    <ProjectFile Name="Symbols\turnswitch4 off.lib" ModifiedDate="2018-09-13T14:19:19.133+07:00" Length="25713" />
+    <ProjectFile Name="Symbols\turnswitch4 on.lib" ModifiedDate="2018-09-13T14:19:19.711+07:00" Length="25776" />
+    <ProjectFile Name="SntpClientRootComponent.neo" ModifiedDate="2018-09-13T11:59:13.927+07:00" Length="468" />
+    <ProjectFile Name="ProjectConfiguration.neo" ModifiedDate="2018-09-13T11:59:13.967+07:00" Length="6377" />
+    <ProjectFile Name="Security.neo" ModifiedDate="2018-10-15T10:09:26.29+07:00" Length="522" />
+    <ProjectFile Name="Security.xml" ModifiedDate="2018-10-15T10:09:26.291+07:00" Length="1429" />
+    <ProjectFile Name="LicenseRootComponent.neo" ModifiedDate="2018-10-02T11:24:09.918+07:00" Length="15994" />
+    <ProjectFile Name="Expressions.neo" ModifiedDate="2018-09-13T11:59:14.142+07:00" Length="457" />
+    <ProjectFile Name="MultipleLanguages.neo" ModifiedDate="2018-10-18T11:15:17.2660376+07:00" Length="174343" />
+    <ProjectFile Name="Vietnamese (Vietnam).lng" ModifiedDate="2018-10-18T11:15:17.2670377+07:00" Length="58" />
+    <ProjectFile Name="Vietnamese (Vietnam).Designer.lng" ModifiedDate="2018-10-18T11:15:17.2660376+07:00" Length="58" />
+    <ProjectFile Name="Tags.neo" ModifiedDate="2018-10-17T16:17:41.1810129+07:00" Length="33226" />
+    <ProjectFile Name="Tags.Script.cs" ModifiedDate="2018-10-17T16:17:41.1810129+07:00" Length="1577" />
+    <ProjectFile Name="AlarmServer.neo" ModifiedDate="2018-09-13T11:59:15.048+07:00" Length="1053" />
+    <ProjectFile Name="OpcUaServerRootComponent.neo" ModifiedDate="2018-09-14T11:38:41.732+07:00" Length="643" />
+    <ProjectFile Name="WebServerRootComponent.neo" ModifiedDate="2018-09-14T11:56:35.213+07:00" Length="546" />
+    <ProjectFile Name="AuditTrail.neo" ModifiedDate="2018-10-08T17:20:17.441+07:00" Length="11931" />
+    <ProjectFile Name="Reports.neo" ModifiedDate="2018-10-02T11:13:36.258+07:00" Length="780" />
+    <ProjectFile Name="TextLibrary.neo" ModifiedDate="2018-10-13T16:03:20.836+07:00" Length="1990" />
+    <ProjectFile Name="START.neoxaml" ModifiedDate="2018-10-18T13:42:58.2918593+07:00" Length="794" />
+    <ProjectFile Name="START.Script.cs" ModifiedDate="2018-10-18T13:42:58.2928594+07:00" Length="919" />
+    <ProjectFile Name="START.xaml" ModifiedDate="2018-10-18T13:42:58.3828645+07:00" Length="18877" />
+    <ProjectFile Name="LOGIN.neoxaml" ModifiedDate="2018-10-15T22:14:54.459+07:00" Length="794" />
+    <ProjectFile Name="LOGIN.Script.cs" ModifiedDate="2018-10-15T22:14:54.46+07:00" Length="780" />
+    <ProjectFile Name="LOGIN.xaml" ModifiedDate="2018-10-15T22:14:54.544+07:00" Length="9803" />
+    <ProjectFile Name="QLSX.neoxaml" ModifiedDate="2018-10-16T11:17:37.531+07:00" Length="793" />
+    <ProjectFile Name="QLSX.xaml" ModifiedDate="2018-10-16T11:17:37.675+07:00" Length="14123" />
+    <ProjectFile Name="SETUP.neoxaml" ModifiedDate="2018-10-17T17:57:58.2181677+07:00" Length="794" />
+    <ProjectFile Name="SETUP.Script.cs" ModifiedDate="2018-10-17T17:57:58.2181677+07:00" Length="1303" />
+    <ProjectFile Name="SETUP.xaml" ModifiedDate="2018-10-17T17:57:58.3421748+07:00" Length="33835" />
+    <ProjectFile Name="OPERATE.neoxaml" ModifiedDate="2018-10-18T11:23:41.3648704+07:00" Length="796" />
+    <ProjectFile Name="OPERATE.Script.cs" ModifiedDate="2018-10-18T11:23:41.3648704+07:00" Length="1043" />
+    <ProjectFile Name="OPERATE.xaml" ModifiedDate="2018-10-18T11:23:41.5248796+07:00" Length="48022" />
+    <ProjectFile Name="LOGINHISTORY.neoxaml" ModifiedDate="2018-10-18T11:37:12.9102882+07:00" Length="801" />
+    <ProjectFile Name="LOGINHISTORY.xaml" ModifiedDate="2018-10-18T11:37:12.9442901+07:00" Length="6086" />
+    <ProjectFile Name="TECHNICAL.neoxaml" ModifiedDate="2018-10-18T10:07:54.5188057+07:00" Length="798" />
+    <ProjectFile Name="TECHNICAL.Script.cs" ModifiedDate="2018-10-18T10:07:54.5188057+07:00" Length="936" />
+    <ProjectFile Name="TECHNICAL.xaml" ModifiedDate="2018-10-18T10:07:54.5508075+07:00" Length="13991" />
+    <ProjectFile Name="ALARM.neoxaml" ModifiedDate="2018-10-18T11:37:13.1152999+07:00" Length="794" />
+    <ProjectFile Name="ALARM.xaml" ModifiedDate="2018-10-18T11:37:13.1503019+07:00" Length="6656" />
+    <ProjectFile Name="REPORT.neoxaml" ModifiedDate="2018-10-18T09:57:50.0162301+07:00" Length="795" />
+    <ProjectFile Name="REPORT.xaml" ModifiedDate="2018-10-18T09:57:50.0642329+07:00" Length="20113" />
+    <ProjectFile Name="LCSP.neoxaml" ModifiedDate="2018-10-18T09:45:23.4745304+07:00" Length="793" />
+    <ProjectFile Name="LCSP.Script.cs" ModifiedDate="2018-10-18T09:45:23.4745304+07:00" Length="783" />
+    <ProjectFile Name="LCSP.xaml" ModifiedDate="2018-10-18T09:45:23.6865425+07:00" Length="31587" />
+    <ProjectFile Name="OPERATOR.neoxaml" ModifiedDate="2018-10-18T10:52:57.6564163+07:00" Length="797" />
+    <ProjectFile Name="OPERATOR.Script.cs" ModifiedDate="2018-10-18T10:52:57.6564163+07:00" Length="783" />
+    <ProjectFile Name="OPERATOR.xaml" ModifiedDate="2018-10-18T10:52:57.6794176+07:00" Length="12493" />
+    <ProjectFile Name="SETUP2.neoxaml" ModifiedDate="2018-10-17T15:47:03.1518836+07:00" Length="795" />
+    <ProjectFile Name="SETUP2.Script.cs" ModifiedDate="2018-10-17T15:47:03.1518836+07:00" Length="908" />
+    <ProjectFile Name="SETUP2.xaml" ModifiedDate="2018-10-17T15:47:03.2238877+07:00" Length="26892" />
+    <ProjectFile Name="DRAG_OPERATION.neoxaml" ModifiedDate="2018-10-18T10:45:04.0373269+07:00" Length="803" />
+    <ProjectFile Name="DRAG_OPERATION.Script.cs" ModifiedDate="2018-10-18T10:45:04.0373269+07:00" Length="954" />
+    <ProjectFile Name="DRAG_OPERATION.xaml" ModifiedDate="2018-10-18T10:45:04.1483332+07:00" Length="22825" />
+    <ProjectFile Name="OPERATE_2.neoxaml" ModifiedDate="2018-10-18T11:20:10.7998268+07:00" Length="798" />
+    <ProjectFile Name="OPERATE_2.Script.cs" ModifiedDate="2018-10-18T11:20:10.7998268+07:00" Length="935" />
+    <ProjectFile Name="OPERATE_2.xaml" ModifiedDate="2018-10-18T11:20:10.9018326+07:00" Length="38313" />
+    <ProjectFile Name="CHECK_CLEAN.neoxaml" ModifiedDate="2018-10-18T13:27:40.5333665+07:00" Length="800" />
+    <ProjectFile Name="CHECK_CLEAN.xaml" ModifiedDate="2018-10-18T13:27:41.0513961+07:00" Length="43168" />
+    <ProjectFile Name="Printer1.xml" ModifiedDate="2018-09-24T17:38:52.168+07:00" Length="882" />
+    <ProjectFile Name="PLC_S7_1200.neo" ModifiedDate="2018-10-15T15:18:31.636+07:00" Length="865" />
+    <ProjectFile Name="DataLogger1.neo" ModifiedDate="2018-10-13T15:28:03.542+07:00" Length="493" />
+    <ProjectFile Name="DataLogger2.neo" ModifiedDate="2018-10-13T15:28:03.56+07:00" Length="2630" />
+    <ProjectFile Name="Recipe1.neo" ModifiedDate="2018-10-18T09:45:24.6155956+07:00" Length="20945" />
+  </ProjectFiles>
+</Project>

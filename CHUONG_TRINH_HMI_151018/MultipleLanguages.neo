@@ -46,11 +46,6 @@
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Cài đặt thông số" />
         </ReferenceValue>
       </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="VẬN HÀNH" />
-        </ReferenceValue>
-      </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="TECHNICAL" ObjectName="Text1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Lỗi thiết bị" />
@@ -58,12 +53,12 @@
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="TECHNICAL" ObjectName="Text3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Vận hành" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Điều khiển &#xD;&#xA;thiết bị" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="TECHNICAL" ObjectName="Text4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Hiệu chuẩn &#xD;&#xA;thiết bị đo" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Hiệu chuẩn &#xD;&#xA;cảm biến" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="TECHNICAL" ObjectName="Text5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -76,204 +71,9 @@
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trở lại" />
         </ReferenceValue>
       </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="BACK" />
-        </ReferenceValue>
-      </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LOGINHISTORY" ObjectName="Button" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trở lại" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="FEED" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Hz" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text7" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C/M" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text9" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text11" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="QUALIFIED:                                              REJECT:                                              " />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text13" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SEALING&#xD;&#xA;UP" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text14" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="DRAG&#xD;&#xA;DOWN" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text15" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="DEFECT&#xD;&#xA;OFF" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text16" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="EYE&#xD;&#xA;MARK" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text17" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SEALING&#xD;&#xA;UP" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text19" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="EYE&#xD;&#xA;MARK" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text20" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="INCH" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text22" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="RUN" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text23" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="ALARM" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text25" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="STOP" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text27" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="AUTO" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric1" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric1" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text8" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric2" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric2" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric3" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric3" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text10" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text21" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric4" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric4" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text24" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric5" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric5" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text26" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric6" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric6" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric7" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric7" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="TECHNICAL" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -284,11 +84,6 @@
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="QLSX" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Text" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text28" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="User" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="Button" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -303,12 +98,12 @@
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP" ObjectName="Text1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Tên Sản phẩm:" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã Sản phẩm:" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP" ObjectName="Text2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã Sản phẩm:" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Tên Sản phẩm:" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP" ObjectName="Text5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -438,7 +233,7 @@
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã Sản phẩm" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Chọn Sản phẩm" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="AnalogNumeric8" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -453,7 +248,7 @@
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="Text2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã Sản phẩm:" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Sản phẩm:" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="Text3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -469,21 +264,6 @@
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="AnalogNumeric8" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="TouchComboBox1" PropertyName="Texts[0]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="A" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="TouchComboBox1" PropertyName="Texts[1]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="B" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="TouchComboBox1" PropertyName="Texts[2]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="Text4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -554,86 +334,6 @@
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATOR" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Text" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric8" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric8" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text29" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric9" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric9" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text30" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text31" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric10" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric10" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text32" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="C" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric11" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric11" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="UPPER&#xD;&#xA;HEAT" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="LOWER&#xD;&#xA;HEAT" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="HEAT&#xD;&#xA;SEAL" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="EMBOSSING&#xD;&#xA;HEAT" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="START" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -736,49 +436,9 @@
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model:" />
         </ReferenceValue>
       </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Tần số" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Nhịp cắt" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric12" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric12" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric13" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric13" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text6" PropertyName="Text" IsActive="False" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Text" />
-        </ReferenceValue>
-      </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP2" ObjectName="Button" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="LƯU" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP2" ObjectName="Button1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="XÓA" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP2" ObjectName="Button2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -1031,46 +691,6 @@
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
         </ReferenceValue>
       </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric3" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric3" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric4" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric4" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric5" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric5" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric6" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric6" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
-        </ReferenceValue>
-      </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric7" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
@@ -1084,51 +704,6 @@
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text28" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="User" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric8" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric8" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric9" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric9" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric10" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric10" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric11" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="AnalogNumeric11" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Button" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM&#xD;&#xA;TRÊN" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Button2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -1194,36 +769,6 @@
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP" ObjectName="MaSanPham" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Ma San Pham" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text12" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠNG THÁI HỆ THỐNG !" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text12" PropertyName="Texts[0]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Đang ngừng : không có user vận hành" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text12" PropertyName="Texts[1]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Đang chạy kiểm tra thông số bởi quản lý" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text12" PropertyName="Texts[2]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Đang chạy sản xuất bời nhân viên vận hành" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text12" PropertyName="Texts[3]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Đang kiểm tra, Vệ sinh bởi nhân viên vận hành" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text12" PropertyName="Texts[4]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Đang chạy kiểm tra bảo trì bới nhân viên kỹ thuật" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="START" ObjectName="Text5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -1303,7 +848,7 @@
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text8" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã sản phẩm:" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Sản phẩm:" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text9" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -1316,44 +861,19 @@
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Ngày SX:" />
         </ReferenceValue>
       </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text12" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã sản phẩm" />
-        </ReferenceValue>
-      </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP2" ObjectName="TextBox" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Nhập mã SP" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Button1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="NHẬP THÔNG TIN SẢN PHẨM" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Button2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="ĐIỀU KHIỂN THIẾT BỊ" />
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="CHỌN SẢN PHẨM" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Số lô SX" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Ngày SX" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="AnalogNumeric" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="AnalogNumeric" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Button5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -1366,39 +886,9 @@
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Số lô SX" />
         </ReferenceValue>
       </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="TouchComboBox1" PropertyName="Texts[0]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="000" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="TouchComboBox1" PropertyName="Texts[1]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="111" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="TouchComboBox1" PropertyName="Texts[2]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="222" />
-        </ReferenceValue>
-      </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text6" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Ngày SX" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text12" PropertyName="Texts[0]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="000" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text12" PropertyName="Texts[1]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="111" />
-        </ReferenceValue>
-      </Object>
-      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text12" PropertyName="Texts[2]" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
-        <ReferenceValue>
-          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="222" />
         </ReferenceValue>
       </Object>
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Button8" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
@@ -1489,6 +979,651 @@
       <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="Button2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
         <ReferenceValue>
           <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Lưu lại" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Sản phẩm:" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trạm hàn trên" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text6" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trạm hàn dưới" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text8" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trạm hàn số lô" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text13" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trạm hàn Seal" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text14" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trạm hàn" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Nhiệt độ &#xD;&#xA;cài đặt" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text7" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Nhiệt độ &#xD;&#xA;cảnh báo" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text9" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Độ dài &#xD;&#xA;bước kéo (mm)" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Button3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Chọn &#xD;&#xA;sản phẩm" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="SETUP2" ObjectName="Text7" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Tên sản phẩm" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text11" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text12" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text15" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text16" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text10" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text17" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text18" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text19" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text20" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text21" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text22" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text23" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text24" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Button4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="CHỌN SẢN PHẨM" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Button5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="ĐIỀU KHIỂN THIẾT BỊ" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text28" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="User" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="LCSP" ObjectName="Text3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Text" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã sản phẩm" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="REPORT" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã SP" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trở lại" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric2" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric2" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric7" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric7" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Text28" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="User" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric8" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric8" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric9" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric9" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric10" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric10" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric11" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric11" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM&#xD;&#xA; DƯỚI" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM DÁN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM &#xD;&#xA;SỐ LÔ" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Text4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Tần số (Hz)" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Text5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Nhịp cắt (C/M)" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="KIỂM TRA - VỆ SINH" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button8" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="EYE&#xD;&#xA;MARK" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button9" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="FEED" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button10" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="DEFECT&#xD;&#xA;OFF" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button11" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="DRAG&#xD;&#xA;DOWN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button12" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SEALING&#xD;&#xA;UP" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button6" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="AUTO" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button7" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="INCH" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button13" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="ALARM" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button14" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="RUN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button15" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="STOP" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Text2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Tốc độ cuốn" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric1" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="AnalogNumeric1" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text11" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Qualified:                                                                          " />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Trở lại" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric2" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric2" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric3" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric3" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric4" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric4" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric5" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric5" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric6" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric6" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric7" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric7" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text28" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="User" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric8" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric8" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric9" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric9" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric10" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric10" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric11" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric11" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM&#xD;&#xA;TRÊN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM&#xD;&#xA; DƯỚI" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM DÁN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM &#xD;&#xA;SỐ LÔ" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text4" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Tần số (Hz)" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Nhịp cắt (C/M)" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric12" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric12" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric13" PropertyName="Prefix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="AnalogNumeric13" PropertyName="Suffix" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Reject :                                                                          " />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Thông tin sản phẩm" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text8" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Sản phẩm:" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text9" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Số lô SX:" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text10" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Ngày SX:" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button5" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="VẬN HÀNH " />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Số lô SX" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text6" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Ngày SX" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button8" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="EYE&#xD;&#xA;MARK" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button9" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="FEED" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button10" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="DEFECT&#xD;&#xA;OFF" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button11" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="DRAG&#xD;&#xA;DOWN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button12" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="SEALING&#xD;&#xA;UP" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button6" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="AUTO" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button7" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="INCH" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button13" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="ALARM" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button14" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="RUN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Button15" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="STOP" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE" ObjectName="Text2" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Mã sản phẩm" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text7" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text17" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text18" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text19" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text20" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text21" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text22" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Text23" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="OPERATE_2" ObjectName="Button" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM&#xD;&#xA; TRÊN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Button" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="TRẠM&#xD;&#xA;TRÊN" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Text" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  0C" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Text1" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Text3" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
+        </ReferenceValue>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.MultiLanguage.DesignerResourceItem, ToolsCF, Version=2.40.44.0, Culture=neutral, PublicKeyToken=null" DesignerName="CHECK_CLEAN" ObjectName="Text6" PropertyName="Text" IsActive="True" ProjectGuid="2cea7606-4631-427a-b994-925e544e1152" IsPublic="True">
+        <ReferenceValue>
+          <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="  oC" />
         </ReferenceValue>
       </Object>
     </ResourceItems>

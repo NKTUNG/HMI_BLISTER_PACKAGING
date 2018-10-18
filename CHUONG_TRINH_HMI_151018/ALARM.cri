@@ -27,9 +27,9 @@
     <Category Name="Font">
       <Items>
         <Item Target="ALARM.AlarmViewer" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="ALARM.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="ALARM.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="ALARM.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="ALARM.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
       </Items>
     </Category>
     <Category Name="GlobalDataItem">
@@ -51,12 +51,12 @@
     </Category>
     <Category Name="Renderable">
       <Items>
-        <Item Target="ALARM.Button1" Source="-258110525_Normal.bmp" />
-        <Item Target="ALARM.Button1" Source="-258110525_Pressed.bmp" />
-        <Item Target="ALARM.Button1" Source="-258110525_Disabled.bmp" />
         <Item Target="ALARM.Button" Source="1054583455_Normal.bmp" />
         <Item Target="ALARM.Button" Source="1054583455_Pressed.bmp" />
         <Item Target="ALARM.Button" Source="1054583455_Disabled.bmp" />
+        <Item Target="ALARM.Button1" Source="-258110525_Normal.bmp" />
+        <Item Target="ALARM.Button1" Source="-258110525_Pressed.bmp" />
+        <Item Target="ALARM.Button1" Source="-258110525_Disabled.bmp" />
       </Items>
     </Category>
     <Category Name="Report">

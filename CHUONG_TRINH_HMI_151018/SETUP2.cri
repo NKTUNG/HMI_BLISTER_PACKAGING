@@ -42,8 +42,8 @@
         <Item Target="SETUP2.AnalogNumeric2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
         <Item Target="SETUP2.TextBox" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="SETUP2.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="SETUP2.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="SETUP2.Button2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="SETUP2.Text7" TargetProperty="FontFamily" Source="ARIAL.TTF" />
       </Items>
     </Category>
     <Category Name="GlobalDataItem">
@@ -71,7 +71,6 @@
     <Category Name="Recipe">
       <Items>
         <Item xsi:type="ActionItem" Target="SETUP2.Button" TargetProperty="Actions" Source="Recipe1" Event="Click" Action="Save Recipe" Param="" />
-        <Item xsi:type="ActionItem" Target="SETUP2.Button1" TargetProperty="Actions" Source="Recipe1" Event="Click" Action="Delete Recipe" Param="" />
       </Items>
     </Category>
     <Category Name="Renderable">
@@ -79,9 +78,6 @@
         <Item Target="SETUP2.Button" Source="1453591887_Normal.bmp" />
         <Item Target="SETUP2.Button" Source="1453591887_Pressed.bmp" />
         <Item Target="SETUP2.Button" Source="1453591887_Disabled.bmp" />
-        <Item Target="SETUP2.Button1" Source="1453591887_Normal.bmp" />
-        <Item Target="SETUP2.Button1" Source="1453591887_Pressed.bmp" />
-        <Item Target="SETUP2.Button1" Source="1453591887_Disabled.bmp" />
         <Item Target="SETUP2.Button2" Source="1453591887_Normal.bmp" />
         <Item Target="SETUP2.Button2" Source="1453591887_Pressed.bmp" />
         <Item Target="SETUP2.Button2" Source="1453591887_Disabled.bmp" />

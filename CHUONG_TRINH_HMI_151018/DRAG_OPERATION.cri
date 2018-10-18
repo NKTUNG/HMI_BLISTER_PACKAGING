@@ -61,9 +61,9 @@
         <Item Target="DRAG_OPERATION.Button" Source="1054583455_Normal.bmp" />
         <Item Target="DRAG_OPERATION.Button" Source="1054583455_Pressed.bmp" />
         <Item Target="DRAG_OPERATION.Button" Source="1054583455_Disabled.bmp" />
-        <Item Target="DRAG_OPERATION.Button3" Source="213339677_Normal.bmp" />
-        <Item Target="DRAG_OPERATION.Button3" Source="213339677_Pressed.bmp" />
-        <Item Target="DRAG_OPERATION.Button3" Source="213339677_Disabled.bmp" />
+        <Item Target="DRAG_OPERATION.Button3" Source="-1345872643_Normal.bmp" />
+        <Item Target="DRAG_OPERATION.Button3" Source="-1345872643_Pressed.bmp" />
+        <Item Target="DRAG_OPERATION.Button3" Source="-1345872643_Disabled.bmp" />
         <Item Target="DRAG_OPERATION.SymbolViewbox2" Source="DRAG_OPERATION.m_SymbolViewbox2.bmp" />
         <Item Target="DRAG_OPERATION.SymbolViewbox3" Source="DRAG_OPERATION.m_SymbolViewbox3.bmp" />
         <Item Target="DRAG_OPERATION.Button1" Source="1542340384_Normal.bmp" />

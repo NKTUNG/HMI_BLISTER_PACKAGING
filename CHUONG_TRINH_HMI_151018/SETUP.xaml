@@ -8,8 +8,8 @@
   </nai:ScriptProperties.ScriptEvents>
   <nacs:ElementCanvas Name="m_EditorCanvas" Width="800" Height="480" FocusVisualStyle="{x:Null}" AllowDrop="True" ClipToBounds="True" Focusable="True" TextOptions.TextFormattingMode="Display" TextOptions.TextRenderingMode="ClearType" Panel.ZIndex="104">
     <nacs1:Picture SymbolName="cvi-pharma" Name="m_Picture" Width="60" Height="60" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="5" Canvas.Left="718" Canvas.Top="3" />
-    <nac:Label Text="Tên Sản phẩm:" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text1" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="6" Canvas.Left="194" Canvas.Top="112" />
-    <nac:Label Text="Mã Sản phẩm:" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text2" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="7" Canvas.Left="194" Canvas.Top="155" />
+    <nac:Label Text="Mã Sản phẩm:" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text1" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="6" Canvas.Left="194" Canvas.Top="112" />
+    <nac:Label Text="Tên Sản phẩm:" TextDecorations="{x:Null}" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Background="{x:Null}" Foreground="#FF000000" FontFamily="Arial" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text2" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="7" Canvas.Left="194" Canvas.Top="155" />
     <nac:Label Text="Trạm hàn trên" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text5" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="8" Canvas.Left="268" Canvas.Top="292">
       <nac:Label.TextDecorations>
         <TextDecorationCollection />
@@ -240,13 +240,19 @@
     <Line X1="257" Y1="419.5" X2="622" Y2="419.5" Stroke="#FFFFFFFF" StrokeThickness="1" Name="m_Line5" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="30" />
     <Line X1="422" Y1="233" X2="422" Y2="459" Stroke="#FFFFFFFF" StrokeThickness="1" Name="m_Line4" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="31" />
     <Line X1="525" Y1="233" X2="525" Y2="459" Stroke="#FFFFFFFF" StrokeThickness="1" Name="m_Line6" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="32" />
-    <nacc1:Rectangle Fill="#FFD6E3F4" Stroke="{x:Null}" StrokeThickness="1" Name="m_Rectangle1" Width="496" Height="124" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="2" Canvas.Left="136" Canvas.Top="82">
+    <nacc1:Rectangle Fill="#FFD6E3F4" Stroke="{x:Null}" StrokeThickness="1" Name="m_Rectangle1" Width="496" Height="116" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Panel.ZIndex="2" Canvas.Left="136" Canvas.Top="90">
       <nacc1:Rectangle.BevelEffectInfo>
         <nacb:BevelEffectInfo Style="Raised" Width="2" />
       </nacc1:Rectangle.BevelEffectInfo>
     </nacc1:Rectangle>
     <nac:TextBox WordWrap="False" Text="San Pham" FontFamily="Arial" UndoLimit="1" Transparent="Visible" TextDecorations="{x:Null}" IsReadOnly="True" BorderBrush="#FF8FA4BE" Foreground="#FF000000" FontSize="24" FontStyle="Normal" FontWeight="Normal" HorizontalContentAlignment="Center" Name="m_SanPham" Width="167" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="False" Panel.ZIndex="34" Canvas.Left="404" Canvas.Top="112" />
-    <nac:TextBox WordWrap="False" Text="Ma San Pham" FontFamily="Arial" UndoLimit="1" Transparent="Visible" IsReadOnly="True" BorderBrush="#FF8FA4BE" FontSize="24" HorizontalContentAlignment="Center" Name="m_MaSanPham" Width="167" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="False" Panel.ZIndex="35" Canvas.Left="404" Canvas.Top="155" />
+    <nac:TextBox WordWrap="False" Text="Ma San Pham" FontFamily="Arial" UndoLimit="1" Transparent="Visible" IsReadOnly="True" BorderBrush="#FF8FA4BE" FontSize="24" HorizontalContentAlignment="Center" Name="m_MaSanPham" Width="167" Height="30" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Focusable="False" Panel.ZIndex="35" Canvas.Left="404" Canvas.Top="155">
+      <nai:ScriptProperties.ScriptEvents>
+        <nai:ScriptEventList>
+          <nacxs:EventHandlerInfo EventName="GotFocus" MethodName="MaSanPham_GotFocus" />
+        </nai:ScriptEventList>
+      </nai:ScriptProperties.ScriptEvents>
+    </nac:TextBox>
     <nac:Button Text="LƯU &#xD;&#xA;THAY ĐỔI" MultiLine="True" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" MultiPicture="True" BorderBrush="{x:Null}" BorderThickness="1,1,1,1" Background="#FFF79646" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button5" Width="120" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="36" Canvas.Left="631" Canvas.Top="286" Style="{nac1:StyleMarkupExtension DefaultCF}">
       <nai:ActionProperties.Actions>
         <nai:ActionList>

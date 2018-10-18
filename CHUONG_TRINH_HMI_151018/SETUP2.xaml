@@ -270,7 +270,7 @@
         </LinearGradientBrush>
       </nac:AnalogNumericFX.Background>
     </nac:AnalogNumericFX>
-    <nacc1:Rectangle Stroke="#FF000000" StrokeThickness="0" Name="m_Rectangle" Width="503" Height="271" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="1" Canvas.Left="-5" Canvas.Top="-7">
+    <nacc1:Rectangle Stroke="#FF000000" StrokeThickness="0" Name="m_Rectangle" Width="503" Height="264" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="1" Canvas.Left="-5" Canvas.Top="0">
       <nacc1:Rectangle.Fill>
         <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
           <LinearGradientBrush.GradientStops>
@@ -290,14 +290,14 @@
     <Line X1="-0.509999999999991" Y1="93" X2="373.5" Y2="93" Stroke="#FFFFFFFF" StrokeThickness="2" Name="m_Line5" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="26" />
     <Line X1="8.88178419700125E-16" Y1="129" X2="374.01" Y2="129" Stroke="#FFFFFFFF" StrokeThickness="2" Name="m_Line6" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="27" />
     <Line X1="-3" Y1="167" X2="375" Y2="167" Stroke="#FFFFFFFF" StrokeThickness="2" Name="m_Line7" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="28" />
-    <nac:TextBox WordWrap="False" Text="Nhập mã SP" FontFamily="Arial" UndoLimit="1" Transparent="Visible" TextDecorations="{x:Null}" BorderBrush="#FF8064A2" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="18" FontStyle="Italic" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Name="m_TextBox" Width="128" Height="31" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="30" Canvas.Left="21" Canvas.Top="14">
+    <nac:TextBox WordWrap="False" Text="" FontFamily="Arial" UndoLimit="1" Transparent="Visible" TextDecorations="{x:Null}" BorderBrush="#FF8064A2" BorderThickness="2,2,2,2" Background="#FFFFFFFF" Foreground="#FF000000" FontSize="18" FontStyle="Italic" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Name="m_TextBox" Width="128" Height="31" RenderTransformOrigin="0.5,0.5" Opacity="1" Visibility="Visible" Focusable="True" Panel.ZIndex="30" Canvas.Left="22" Canvas.Top="22">
       <nai:ScriptProperties.ScriptEvents>
         <nai:ScriptEventList>
           <nacxs:EventHandlerInfo EventName="LostFocus" MethodName="TextBox_LostFocus" />
         </nai:ScriptEventList>
       </nai:ScriptProperties.ScriptEvents>
     </nac:TextBox>
-    <nac:Button ButtonAppearance="Rounded" CornerRadius="10,10,10,10" Text="LƯU" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" Background="#FF5B92D6" FontFamily="Arial" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button" Width="138" Height="48" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="2" Canvas.Left="21" Canvas.Top="214" Style="{nac1:StyleMarkupExtension Glossy}">
+    <nac:Button ButtonAppearance="Rounded" CornerRadius="10,10,10,10" Text="LƯU" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" Background="#FF5B92D6" FontFamily="Arial" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button" Width="138" Height="48" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="2" Canvas.Left="65" Canvas.Top="214" Style="{nac1:StyleMarkupExtension Glossy}">
       <nai:ActionProperties.Actions>
         <nai:ActionList>
           <nata:Action Name="Save Recipe">
@@ -308,18 +308,7 @@
         </nai:ActionList>
       </nai:ActionProperties.Actions>
     </nac:Button>
-    <nac:Button ButtonAppearance="Rounded" CornerRadius="10,10,10,10" Text="XÓA" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" Background="#FF5B92D6" FontFamily="Arial" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button1" Width="138" Height="48" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="3" Canvas.Left="178" Canvas.Top="214" Style="{nac1:StyleMarkupExtension Glossy}">
-      <nai:ActionProperties.Actions>
-        <nai:ActionList>
-          <nata:Action Name="Delete Recipe">
-            <nata:Action.ActionMethodInfo>
-              <nata:ActionMethodInfo Name="DeleteRecipe" ObjectName="Recipe1" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="" ObjectPath="" ExplicitAuditTrail="False" />
-            </nata:Action.ActionMethodInfo>
-          </nata:Action>
-        </nai:ActionList>
-      </nai:ActionProperties.Actions>
-    </nac:Button>
-    <nac:Button ButtonAppearance="Rounded" CornerRadius="10,10,10,10" Text="THOÁT" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" Background="#FF5B92D6" FontFamily="Arial" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button2" Width="138" Height="48" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="4" Canvas.Left="336" Canvas.Top="214" Style="{nac1:StyleMarkupExtension Glossy}">
+    <nac:Button ButtonAppearance="Rounded" CornerRadius="10,10,10,10" Text="THOÁT" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" Background="#FF5B92D6" FontFamily="Arial" FontSize="15" FontStyle="Normal" FontWeight="Normal" Name="m_Button2" Width="138" Height="48" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="4" Canvas.Left="298" Canvas.Top="214" Style="{nac1:StyleMarkupExtension Glossy}">
       <nai:ActionProperties.Actions>
         <nai:ActionList>
           <nata:Action Name="Close Screen">
@@ -330,5 +319,10 @@
         </nai:ActionList>
       </nai:ActionProperties.Actions>
     </nac:Button>
+    <nac:Label Text="Tên sản phẩm" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Arial" FontSize="14" FontWeight="Bold" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="3.5,0,3.5,1" Name="m_Text7" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="31" Canvas.Left="35" Canvas.Top="0">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
   </nacs:ElementCanvas>
 </nacs:ScreenWindow>

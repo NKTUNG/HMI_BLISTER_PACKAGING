@@ -58,7 +58,7 @@
         <Item xsi:type="ActionItem" Target="OPERATOR.Picture1" TargetProperty="Actions" Source="LCSP" Event="MouseDown" Action="Show Screen" Param="Default" />
         <Item xsi:type="ActionItem" Target="OPERATOR.Picture5" TargetProperty="Actions" Source="LOGIN" Event="MouseDown" Action="Show Screen" Param="Default" />
         <Item xsi:type="ActionItem" Target="OPERATOR.Picture3" TargetProperty="Actions" Source="START" Event="MouseDown" Action="Show Screen" Param="Default" />
-        <Item xsi:type="ActionItem" Target="OPERATOR.Picture4" TargetProperty="Actions" Source="DRAG_OPERATION" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="OPERATOR.Picture4" TargetProperty="Actions" Source="CHECK_CLEAN" Event="MouseDown" Action="Show Screen" Param="Default" />
         <Item xsi:type="ActionItem" Target="OPERATOR.Picture2" TargetProperty="Actions" Source="REPORT" Event="MouseDown" Action="Show Screen" Param="Default" />
         <Item xsi:type="ScreenIDItem" ScreenID="">
           <ScreenName>OPERATOR</ScreenName>

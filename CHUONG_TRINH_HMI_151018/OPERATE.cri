@@ -24,57 +24,46 @@
     </Category>
     <Category Name="Font">
       <Items>
-        <Item Target="OPERATE.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Button1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text7" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text9" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text11" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text13" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text14" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text15" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text16" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text17" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text19" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text20" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text22" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text23" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text25" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text27" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.AnalogNumeric" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.AnalogNumeric1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text11" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.AnalogNumeric2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
         <Item Target="OPERATE.AnalogNumeric3" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text10" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text21" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.AnalogNumeric4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text24" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.AnalogNumeric5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text26" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.AnalogNumeric6" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
         <Item Target="OPERATE.AnalogNumeric7" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
         <Item Target="OPERATE.Text28" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.AnalogNumeric8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text29" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.AnalogNumeric9" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text30" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text31" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.AnalogNumeric10" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text32" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.AnalogNumeric11" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.AnalogNumeric12" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.AnalogNumeric13" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
-        <Item Target="OPERATE.Text6" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.Button" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.Button2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.Button3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
         <Item Target="OPERATE.Button4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
-        <Item Target="OPERATE.Text12" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.AnalogNumeric12" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.AnalogNumeric13" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="OPERATE.Text3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text9" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text10" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text6" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button9" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button10" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button11" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button12" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button6" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button7" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button13" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button14" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Button15" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="OPERATE.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
       </Items>
     </Category>
     <Category Name="GlobalDataItem">
@@ -90,16 +79,16 @@
         <Item Target="OPERATE.AnalogNumeric9" TargetProperty="Value" Source="Tags.tramhanSolo" />
         <Item Target="OPERATE.AnalogNumeric10" TargetProperty="Value" Source="Tags.tramhanduoi" />
         <Item Target="OPERATE.AnalogNumeric11" TargetProperty="Value" Source="Tags.tram_han_tren" />
-        <Item Target="OPERATE.AnalogNumeric12" TargetProperty="Value" Source="Tags.TongSovi" />
-        <Item Target="OPERATE.AnalogNumeric13" TargetProperty="Value" Source="Tags.SoViLoi" />
-        <Item Target="OPERATE.Text6" TargetProperty="Text" Source="Tags.Tensanpham" />
-        <Item Target="OPERATE.Text6" TargetProperty="Value" Source="Tags.SystemTagLatestLoadedRecipeName" />
         <Item Target="OPERATE.Button" TargetProperty="Value" Source="Tags.Nhiettren" />
         <Item Target="OPERATE.Button" TargetProperty="Foreground" Source="Tags.Nhiettren" />
         <Item Target="OPERATE.Button2" TargetProperty="Value" Source="Tags.Nhietduoi" />
         <Item Target="OPERATE.Button3" TargetProperty="Value" Source="Tags.NhietSeal" />
         <Item Target="OPERATE.Button4" TargetProperty="Value" Source="Tags.NhietSoLo" />
-        <Item Target="OPERATE.Text12" TargetProperty="Value" Source="Tags.TrangThaiHeThong" />
+        <Item Target="OPERATE.AnalogNumeric12" TargetProperty="Value" Source="Tags.TongSovi" />
+        <Item Target="OPERATE.AnalogNumeric13" TargetProperty="Value" Source="Tags.SoViLoi" />
+        <Item Target="OPERATE.Text" TargetProperty="Value" Source="Tags.Solosanpham" />
+        <Item Target="OPERATE.Text6" TargetProperty="Value" Source="Tags.SystemTagDateTime" />
+        <Item Target="OPERATE.Text2" TargetProperty="Value" Source="Tags.SystemTagLatestLoadedRecipeName" />
       </Items>
     </Category>
     <Category Name="IntegratorSwapActiveProjectAction">
@@ -116,6 +105,9 @@
     </Category>
     <Category Name="Renderable">
       <Items>
+        <Item Target="OPERATE.Button1" Source="-1887562421_Normal.bmp" />
+        <Item Target="OPERATE.Button1" Source="-1887562421_Pressed.bmp" />
+        <Item Target="OPERATE.Button1" Source="-1887562421_Disabled.bmp" />
         <Item Target="OPERATE.Button" Source="791278776_Normal.bmp" />
         <Item Target="OPERATE.Button" Source="791278776_Pressed.bmp" />
         <Item Target="OPERATE.Button" Source="791278776_Disabled.bmp" />
@@ -125,9 +117,42 @@
         <Item Target="OPERATE.Button3" Source="791278776_Normal.bmp" />
         <Item Target="OPERATE.Button3" Source="791278776_Pressed.bmp" />
         <Item Target="OPERATE.Button3" Source="791278776_Disabled.bmp" />
-        <Item Target="OPERATE.Button4" Source="260224270_Normal.bmp" />
-        <Item Target="OPERATE.Button4" Source="260224270_Pressed.bmp" />
-        <Item Target="OPERATE.Button4" Source="260224270_Disabled.bmp" />
+        <Item Target="OPERATE.Button4" Source="791278776_Normal.bmp" />
+        <Item Target="OPERATE.Button4" Source="791278776_Pressed.bmp" />
+        <Item Target="OPERATE.Button4" Source="791278776_Disabled.bmp" />
+        <Item Target="OPERATE.Button5" Source="678552197_Normal.bmp" />
+        <Item Target="OPERATE.Button5" Source="678552197_Pressed.bmp" />
+        <Item Target="OPERATE.Button5" Source="678552197_Disabled.bmp" />
+        <Item Target="OPERATE.Button8" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button8" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button8" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button9" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button9" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button9" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button10" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button10" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button10" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button11" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button11" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button11" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button12" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button12" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button12" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button6" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button6" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button6" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button7" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button7" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button7" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button13" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button13" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button13" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button14" Source="-1661507190_Normal.bmp" />
+        <Item Target="OPERATE.Button14" Source="-1661507190_Pressed.bmp" />
+        <Item Target="OPERATE.Button14" Source="-1661507190_Disabled.bmp" />
+        <Item Target="OPERATE.Button15" Source="1158801860_Normal.bmp" />
+        <Item Target="OPERATE.Button15" Source="1158801860_Pressed.bmp" />
+        <Item Target="OPERATE.Button15" Source="1158801860_Disabled.bmp" />
       </Items>
     </Category>
     <Category Name="Report">
@@ -139,7 +164,7 @@
           <ScreenName>OPERATE</ScreenName>
         </Item>
         <Item xsi:type="ScreenObjectsCrossReferenceItem">
-          <ObjectsCount>51</ObjectsCount>
+          <ObjectsCount>45</ObjectsCount>
           <ScreenName>OPERATE</ScreenName>
         </Item>
       </Items>
@@ -153,7 +178,9 @@
       <Items />
     </Category>
     <Category Name="Symbol">
-      <Items />
+      <Items>
+        <Item xsi:type="SymbolItem" Target="OPERATE.Picture" Source="cvi-pharma" Width="57" Height="57" IsAnimated="false" />
+      </Items>
     </Category>
     <Category Name="TextLibrary">
       <Items />

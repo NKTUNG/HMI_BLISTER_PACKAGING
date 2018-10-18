@@ -1,0 +1,538 @@
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\obj\x86\Release\ResolveAssemblyReference.cache
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Common.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CommonCF.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Controls.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ControlsCF.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Core.Utilities.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Utilities.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\FlexCelCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Tools.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ToolsCF.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\System.Data.SQLite.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\log4net.config
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\BeInProcessNeo.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CommonIde.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\IntegratorSwapActiveProject.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\IntegratorSwapActiveProjectCF.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\graphicspc.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Ionic.Zip.CF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Ionic.Zip.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Numeric.kbl
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\NumericHex.kbl
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\NumericIP.kbl
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\System Default.kbl
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\US.kbl
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OnScreenKeyboardPC.exe
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OPCDAWrapper.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpcUaServer.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\PropertyBag.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SqlCeDatabaseCF.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SQLite.Interop.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SQLiteDatabase.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SQLiteDatabaseCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SQLiteDatabaseCommonCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ToolsIde.DLL
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\graphicsce.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\InProcessCE.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\libeay32.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\libxml2.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OnScreenKeyboardCE.exe
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OPCDAWrapperCe.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpcUaServerCE.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\PdfWrapperCE.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\PropertyBagCE.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SQLite.Interop.099.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\uastack.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\VSC.exe
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SIMATIC_S7_ISO_TCP_Pre2ce6.dll.ce6
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CHUONG_TRINH_HMI_151018.exe.manifest
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Modules.cfgtool
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ARIAL.TTF
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\TAHOMA.TTF
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\AlarmSettings.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\network.bin
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\RenderableControls.zip
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Symbols.zip
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ComRegistration.config
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ControllerRunTimeSettings.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Controllers.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Features.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpcUaServerRootComponent.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\PLC_S7_1200.cfg
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Printer1.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Project Files\Reports\Templates\BATCH REPORT 2003.xls
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Project.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Recipe1.bin
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ScreenIDs.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Security.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\PlatformFactory.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\TrendDataConfig.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Vietnamese (Vietnam).Designer.lng
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Vietnamese (Vietnam).lng
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\App.config
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\hourglass.bmp
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CHUONG_TRINH_HMI_151018.exe.config
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CHUONG_TRINH_HMI_151018.exe
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CHUONG_TRINH_HMI_151018.pdb
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ApplicationFrameworkCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\AttributesCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CommonDatabaseCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Api.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Component.Api.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Component.Engine.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Controls.Api.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Engine.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\DataSourceInterop.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Extensions.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ExtensionsCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\InterfacesCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\log4net.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\MacroExtensionsCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Microsoft.WindowsCE.Forms.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.Configuration.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.Drawing.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.Windows.Forms.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ResourcesCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SecureMail.Core.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SecureMail.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SecureMailCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SignatureInterfacesCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\StorageCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.AdvancedList.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ApplicationFramework.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.AdvancedComboBox.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.XtraEditors.v7.3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.XtraGrid.v7.3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\hasp_net_windows.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\TeeChart.WPF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.CommonControls.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.Core.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\RebexSecureMailCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Core.Api.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.UIElements.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\FlexCel.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.Utils.v7.3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.WindowsCE.Messaging.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.OutlookControls.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Attributes.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Interfaces.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\PdfiumViewer.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.AdvancedList.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\FreeImageNET.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\TeeChart.Pocket.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Utilities.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.UIElements.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ExcelToPdf.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.UIElements.Controls.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\3DTools.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Engine.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Core.Controls.Api.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.WindowsCE.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.ScrollBar.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\RebexSecureMail.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.SmartGrid.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Component.Api.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.UIElements.Controls.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.CommonControls.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\O2S.Components.PDF4NET.Compact.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.XtraLayout.v7.3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Xceed.Zip.v5.1.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.AdvancedComboBox.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.Net.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\LicenseResolverTools.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Newtonsoft.Json.Compact.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Api.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Xceed.FileSystem.v5.1.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.OutlookControls.CF3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\MediaPlayerCF.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.Core.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\LumenWorks.Framework.IO.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\NeoNativeSignature.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\IconPack.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\AsyncWinLib.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\SignatureInterfaces.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.Data.v7.3.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Prism.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Component.Engine.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\MediaPlayerCELib.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\PropertyBagInterop.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\BeHwApiProvider.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\RemObjects.InternetPack.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Core.CodeGenerationUtilities.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Xceed.Compression.v5.1.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Utilities.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\protobuf-net.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Common.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\InterfacesCF.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Controls.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\Tools.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ToolsCF.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\CommonCF.xml
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\ControlsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\ControlsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\ControlsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\ControlsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ko\ControlsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\ControlsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\ControlsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\ControlsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\ResourcesCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\ResourcesCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\ResourcesCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\ResourcesCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ko\ResourcesCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\ResourcesCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\ResourcesCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\ResourcesCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\Resources.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\Resources.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\Resources.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\Resources.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ko\Resources.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\Resources.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\Resources.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\Resources.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ko\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\Controls.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\Controls.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\Controls.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\Controls.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ko\Controls.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\Controls.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\Controls.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\Controls.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\Tools.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\Tools.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\Tools.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\Tools.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ko\Tools.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\Tools.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\Tools.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\Tools.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\ToolsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\ToolsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\ToolsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\ToolsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ko\ToolsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\ToolsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\ToolsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\ToolsCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\de\CommonCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\es\CommonCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\fr\CommonCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\it\CommonCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\ko\CommonCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\CommonCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\CommonCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\CommonCF.resources.dll
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\obj\x86\Release\CHUONG_TRINH_HMI_151018.exe
+F:\HMI 17-10-18\CHUONG_TRINH_HMI_151018\Temp\obj\x86\Release\CHUONG_TRINH_HMI_151018.pdb
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\log4net.config
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\BeInProcessNeo.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Common.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CommonCF.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CommonIde.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Controls.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ControlsCF.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Core.Utilities.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Utilities.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\IntegratorSwapActiveProject.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\IntegratorSwapActiveProjectCF.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\FlexCelCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\graphicspc.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Ionic.Zip.CF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Ionic.Zip.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Numeric.kbl
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\NumericHex.kbl
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\NumericIP.kbl
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\System Default.kbl
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\US.kbl
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OnScreenKeyboardPC.exe
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OPCDAWrapper.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpcUaServer.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\PropertyBag.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SqlCeDatabaseCF.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SQLite.Interop.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SQLiteDatabase.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SQLiteDatabaseCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SQLiteDatabaseCommonCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Tools.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ToolsCF.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ToolsIde.DLL
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\graphicsce.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\InProcessCE.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\libeay32.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\libxml2.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OnScreenKeyboardCE.exe
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OPCDAWrapperCe.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpcUaServerCE.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\PdfWrapperCE.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\PropertyBagCE.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SQLite.Interop.099.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\System.Data.SQLite.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\uastack.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\VSC.exe
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SIMATIC_S7_ISO_TCP_Pre2ce6.dll.ce6
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ARIAL.TTF
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\TAHOMA.TTF
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Symbols.zip
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ControllerRunTimeSettings.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpcUaServerRootComponent.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\PLC_S7_1200.cfg
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Printer1.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Project Files\Reports\Templates\BATCH REPORT 2003.xls
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Recipe1.bin
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Security.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\App.config
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\hourglass.bmp
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CHUONG_TRINH_HMI_151018.exe.manifest
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Modules.cfgtool
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\AlarmSettings.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\network.bin
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\RenderableControls.zip
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ComRegistration.config
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Controllers.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Features.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Project.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ScreenIDs.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\PlatformFactory.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\TrendDataConfig.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Vietnamese (Vietnam).Designer.lng
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Vietnamese (Vietnam).lng
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CHUONG_TRINH_HMI_151018.exe.config
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CHUONG_TRINH_HMI_151018.exe
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CHUONG_TRINH_HMI_151018.pdb
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ApplicationFrameworkCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\AttributesCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CommonDatabaseCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Api.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Component.Api.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Component.Engine.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Controls.Api.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreCF.Engine.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\DataSourceInterop.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Extensions.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ExtensionsCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\InterfacesCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\log4net.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\MacroExtensionsCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Microsoft.WindowsCE.Forms.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.Configuration.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.Drawing.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.Windows.Forms.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ResourcesCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SecureMail.Core.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SecureMail.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SecureMailCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SignatureInterfacesCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\StorageCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.AdvancedList.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ApplicationFramework.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.AdvancedComboBox.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.XtraEditors.v7.3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.XtraGrid.v7.3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\hasp_net_windows.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\TeeChart.WPF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.CommonControls.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.Core.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\RebexSecureMailCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Core.Api.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.UIElements.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\FlexCel.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.Utils.v7.3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.WindowsCE.Messaging.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.OutlookControls.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Attributes.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Interfaces.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\PdfiumViewer.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.AdvancedList.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\FreeImageNET.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\TeeChart.Pocket.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Utilities.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.UIElements.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ExcelToPdf.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.UIElements.Controls.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\3DTools.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Engine.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Core.Controls.Api.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.WindowsCE.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.ScrollBar.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\RebexSecureMail.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.SmartGrid.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Component.Api.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.UIElements.Controls.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.CommonControls.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\O2S.Components.PDF4NET.Compact.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.XtraLayout.v7.3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Xceed.Zip.v5.1.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.AdvancedComboBox.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\OpenNETCF.Net.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\LicenseResolverTools.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Newtonsoft.Json.Compact.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Api.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Xceed.FileSystem.v5.1.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.OutlookControls.CF3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\MediaPlayerCF.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Resco.Core.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\LumenWorks.Framework.IO.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\NeoNativeSignature.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\IconPack.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\AsyncWinLib.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\SignatureInterfaces.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\DevExpress.Data.v7.3.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Prism.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Component.Engine.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\MediaPlayerCELib.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\PropertyBagInterop.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\BeHwApiProvider.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\RemObjects.InternetPack.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Core.CodeGenerationUtilities.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Xceed.Compression.v5.1.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CoreIde.Utilities.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\protobuf-net.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Common.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\InterfacesCF.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Controls.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\Tools.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ToolsCF.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\CommonCF.xml
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\DevExpress.XtraEditors.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\DevExpress.XtraGrid.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\ControlsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\ControlsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\ControlsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\ControlsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ko\ControlsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\ControlsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\ControlsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\ControlsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\DevExpress.Utils.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\ResourcesCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\ResourcesCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\ResourcesCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\ResourcesCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ko\ResourcesCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\ResourcesCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\ResourcesCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\ResourcesCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\Resources.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\Resources.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\Resources.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\Resources.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ko\Resources.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\Resources.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\Resources.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\Resources.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ko\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\ApplicationFrameworkCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\DevExpress.XtraLayout.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\Controls.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\Controls.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\Controls.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\Controls.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ko\Controls.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\Controls.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\Controls.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\Controls.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\Tools.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\Tools.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\Tools.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\Tools.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ko\Tools.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\Tools.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\Tools.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\Tools.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\ToolsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\ToolsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\ToolsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\ToolsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ko\ToolsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\ToolsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\ToolsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\ToolsCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\DevExpress.Data.v7.3.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\de\CommonCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\es\CommonCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\fr\CommonCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\it\CommonCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\ko\CommonCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\pt-BR\CommonCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hans\CommonCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\Output\zh-Hant\CommonCF.resources.dll
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\obj\x86\Release\ResolveAssemblyReference.cache
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\obj\x86\Release\CHUONG_TRINH_HMI_151018.exe
+F:\HMI 17-10-18\HMI 18H_171018\CHUONG_TRINH_HMI_151018\Temp\obj\x86\Release\CHUONG_TRINH_HMI_151018.pdb
